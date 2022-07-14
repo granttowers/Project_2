@@ -1,58 +1,61 @@
-
-CREATE TABLE "Incident_Details" (
-    "Mine_ID" TEXT,
-    "Day" TEXT,
-    "Month" TEXT,
-    "Year" TEXT,
-    "Incident_activity" TEXT,
-    "Incident_category" TEXT,
-    "Incident_description" TEXT,
-    "Incident_description2" TEXT,
-    "Incident_state" TEXT,
-    "Incident_type" TEXT,
-    "Operator_contractor" TEXT,
-    "Underground_location" TEXT,
-    "Underground_method" TEXT
+CREATE TABLE "incident_details" (
+    "incident_details_id" SERIAL PRIMARY KEY,
+    "contract_id" TEXT,
+    "mine_id" TEXT,
+    "incident_day" TEXT,
+    "incident_month" TEXT,
+    "incident_year" TEXT,
+    "incident_activity" TEXT,
+    "incident_category" TEXT,
+    "incident_description" TEXT,
+    "incident_description2" TEXT,
+    "incident_state" TEXT,
+    "incident_type" TEXT,
+    "operator_contractor" TEXT,
+    "underground_location" TEXT,
+    "underground_method" TEXT
 );
 
-CREATE TABLE "Injured_Person_Details" (
-    "Mine_ID" TEXT,
-    "Injured_person_age" INT,
-    "Injured_person_gender" TEXT,
-    "Injured_person_occupation" TEXT
+cREATE TABLE "injured_person_details" (
+    "injury_person_id" SERIAL PRIMARY KEY,
+    "mine_id" TEXT,
+    "injured_person_age" INT,
+    "injured_person_gender" TEXT,
+    "injured_person_occupation" TEXT
 );
 
-CREATE TABLE "Injury_Details" (
-    "Mine_ID" TEXT,
-    "Injury_body_part" TEXT,
-    "Injury_classification" TEXT,
-    "Injury_count" INT,
-    "Injury_days_lost" TEXT,
-    "Injury_nature" TEXT,
-    "Injury_source" TEXT,
-    "Injury_type" TEXT
+cREATE TABLE "injury_details" (
+    "injury_id" SERIAL PRIMARY KEY,
+    "mine_id" TEXT,
+    "injury_body_part" TEXT,
+    "injury_classification" TEXT,
+    "injury_count" iNT,
+    "injury_days_lost" TEXT,
+    "injury_nature" TEXT,
+    "injury_source" TEXT,
+    "injury_type" TEXT
+
 );
 
-CREATE TABLE "Company_Details" (
-    "Mine_ID" TEXT,
-    "Company_name" TEXT,
-    "Company_address" TEXT,
-    "Company_city" TEXT,
-    "Company_injury_count" INT,
-    "Company_mine_type" TEXT,
-    "Company_underground_surface" TEXT,
-    "Company_zipcode" TEXT,
-    CONSTRAINT "pk_Company_Details" PRIMARY KEY (
-        "Mine_ID"
+cREATE TABLE "company_details" (
+    "mine_id" TEXT,
+    "company_name" TEXT,
+    "company_address" TEXT,
+    "company_city" TEXT,
+    "company_injury_count" iNT,
+    "company_mine_type" TEXT,
+    "company_underground_surface" TEXT,
+    "company_zipcode" TEXT,
+    CONSTRAiNT "pk_company_details" PRIMARY KEY (
+        "mine_id"
      )
 );
 
-ALTER TABLE "Incident_Details" ADD CONSTRAINT "fk_Incident_Details_Mine_ID" FOREIGN KEY("Mine_ID")
-REFERENCES "Injury_Details" ("Mine_ID");
+-- ALTER TABLE "incident_details" Add coNSTRAiNT "fk_incident_details_mine_id" FoREiGN KEy("mine_id")
+-- REFERENcES "injury_details" ("mine_id");
 
-ALTER TABLE "Injury_Details" ADD CONSTRAINT "fk_Injury_Details_Mine_ID" FOREIGN KEY("Mine_ID")
-REFERENCES "Injured_Person_Details" ("Mine_ID");
+-- ALTER TABLE "injury_details" Add coNSTRAiNT "fk_injury_details_mine_id" FoREiGN KEy("mine_id")
+-- REFERENcES "injured_Person_details" ("mine_id");
 
-ALTER TABLE "Company_Details" ADD CONSTRAINT "fk_Company_Details_Mine_ID" FOREIGN KEY("Mine_ID")
-REFERENCES "Incident_Details" ("Mine_ID");
-
+-- ALTER TABLE "company_details" Add coNSTRAiNT "fk_company_details_mine_id" FoREiGN KEy("mine_id")
+-- REFERENcES "incident_details" ("mine_id");

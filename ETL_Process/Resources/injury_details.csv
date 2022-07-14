@@ -1,4 +1,4 @@
-mine_id,injury_body_part,injury_classifiation,injury_count,injury_days_lost,injury_nature,injury_source
+mine_id,injury_body_part,injury_classification,injury_count,injury_days_lost,injury_nature,injury_source
 100003,Hips/Legs/Feet,Days of restricted activity only,1,0,"Burn, chemical",Acids and alkalies
 100003,Back/Torso,Days of restricted activity only,1,0,"Sprain, strains","Broken rock, coal, ore, waste"
 100003,Hand/Wrist,Days of restricted activity only,1,0,"Sprain, strains",Ground

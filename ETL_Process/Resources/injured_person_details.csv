@@ -44,7 +44,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 100629,35,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 100629,21,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 100697,32,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,51,Male,"Electrician, Lineman"
 100851,47,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 100851,49,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
@@ -53,27 +53,27 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 100851,49,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 100851,33,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 100851,36,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,55,Male,"Miner, NEC"
 100851,53,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
 100851,29,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 100851,34,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 100851,33,Male,"Master mechanic, Foreman, Supervisor"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,36,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 100851,43,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,35,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 100851,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 100851,57,Male,"LW Propman, Propman helper, Move crew if LW, Move-up man, Jacksetter, Advanceman LW helper"
 100851,52,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,45,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,27,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 100851,40,Male,"Electrician, Lineman"
 100851,48,Male,"Electrician, Lineman"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,44,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 100851,28,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 100851,48,Male,"Trackman, Track worker, Track gang"
@@ -85,17 +85,17 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 100851,38,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 100851,62,Male,"Electrician, Lineman"
 100851,50,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,41,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 100851,49,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-100851,Unknown,Unknown,Unknown
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,50,Male,"Continuous miner operator, Coal mole operator"
 100851,30,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 100851,58,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,57,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-100851,Unknown,Unknown,Unknown
+100851,-1,Unknown,Unknown
 100851,54,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 101138,30,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 101138,69,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
@@ -105,9 +105,9 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 101247,56,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 101247,27,Male,"Electrician, Lineman"
 101247,25,Male,"Continuous miner operator, Coal mole operator"
-101247,Unknown,Unknown,Unknown
+101247,-1,Unknown,Unknown
 101247,45,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
-101247,Unknown,Unknown,Unknown
+101247,-1,Unknown,Unknown
 101247,48,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 101247,25,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 101247,41,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
@@ -118,16 +118,16 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 101247,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 101247,29,Male,"LW Propman, Propman helper, Move crew if LW, Move-up man, Jacksetter, Advanceman LW helper"
 101247,48,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
-101247,Unknown,Unknown,Unknown
+101247,-1,Unknown,Unknown
 101247,55,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 101247,49,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 101247,34,Male,"Continuous miner operator, Coal mole operator"
 101247,35,Male,"Electrician, Lineman"
 101247,45,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 101247,23,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
-101247,Unknown,Unknown,Unknown
-101247,Unknown,Unknown,Unknown
-101247,Unknown,Unknown,Unknown
+101247,-1,Unknown,Unknown
+101247,-1,Unknown,Unknown
+101247,-1,Unknown,Unknown
 101247,33,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 101247,33,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 101247,29,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -138,14 +138,14 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 101401,66,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 101401,43,Male,"Electrician, Lineman"
 101401,39,Female,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-101401,Unknown,Unknown,Unknown
+101401,-1,Unknown,Unknown
 101401,29,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 101401,52,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 101401,46,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
-101401,Unknown,Unknown,Unknown
+101401,-1,Unknown,Unknown
 101401,30,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 101401,29,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-101401,Unknown,Unknown,Unknown
+101401,-1,Unknown,Unknown
 101401,39,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 101401,51,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 101401,33,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
@@ -170,7 +170,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 101401,44,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 101401,45,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 101401,38,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-101401,Unknown,Unknown,Unknown
+101401,-1,Unknown,Unknown
 102343,42,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 102343,62,Male,"Miner, Prospector, NEC"
 102660,45,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
@@ -198,24 +198,24 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 102901,28,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 102901,25,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 102901,32,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
-102901,Unknown,Unknown,Unknown
+102901,-1,Unknown,Unknown
 102901,45,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 102901,28,Male,"Utility man, Errand boy, Service truck operator"
 102901,43,Male,"Utility man, Errand boy, Service truck operator"
-102901,Unknown,Unknown,Unknown
+102901,-1,Unknown,Unknown
 102901,42,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-102901,Unknown,Unknown,Unknown
-102901,Unknown,Unknown,Unknown
+102901,-1,Unknown,Unknown
+102901,-1,Unknown,Unknown
 102901,40,Male,"Utility man, Errand boy, Service truck operator"
 102901,60,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
-102901,Unknown,Unknown,Unknown
+102901,-1,Unknown,Unknown
 102985,53,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-103101,Unknown,Unknown,Unknown
+103101,-1,Unknown,Unknown
 103227,62,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 103262,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 103264,52,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 103272,42,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-103285,Unknown,Unknown,Unknown
+103285,-1,Unknown,Unknown
 103285,51,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 103389,19,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 103389,62,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -232,7 +232,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 103529,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 200001,28,Male,"Miner, Prospector, NEC"
 200001,45,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-200001,Unknown,Unknown,Unknown
+200001,-1,Unknown,Unknown
 200001,29,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 200001,46,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 200001,25,Male,Welder (shop)
@@ -346,7 +346,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 200024,21,Female,Leaching operator
 200024,65,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 200024,36,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-200024,Unknown,Unknown,Unknown
+200024,-1,Unknown,Unknown
 200024,19,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 200024,27,Female,Mechanic helper
 200024,46,Female,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
@@ -373,7 +373,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 200135,44,Male,"Groundman, Yardman"
 200135,48,Male,"Electrician, Lineman"
 200135,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-200135,Unknown,Unknown,Unknown
+200135,-1,Unknown,Unknown
 200135,25,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 200135,26,Male,"Miner, Prospector, NEC"
 200135,24,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -440,7 +440,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 200144,37,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 200144,48,Male,"Steel worker, Iron metal worker, Iron worker"
 200144,51,Male,Mechanic helper
-200144,Unknown,Unknown,Unknown
+200144,-1,Unknown,Unknown
 200144,19,Male,"Crusher attendant/operator, Pan feeder operator/worker"
 200144,21,Female,"Crusher attendant/operator, Pan feeder operator/worker"
 200144,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -464,10 +464,10 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 200150,40,Female,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 200152,33,Male,"Shaftcrew, Shaft repair, Skip tender, Station tender"
 200152,34,Male,"Shaftcrew, Shaft repair, Skip tender, Station tender"
-200152,Unknown,Unknown,Unknown
-200152,Unknown,Unknown,Unknown
-200152,Unknown,Unknown,Unknown
-200152,Unknown,Unknown,Unknown
+200152,-1,Unknown,Unknown
+200152,-1,Unknown,Unknown
+200152,-1,Unknown,Unknown
+200152,-1,Unknown,Unknown
 200152,29,Male,Drill helper
 200152,27,Male,"Electrician, Lineman"
 200152,46,Male,Drill helper
@@ -615,7 +615,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 400036,43,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 400036,50,Male,"Ledgeman/hand, Quarry man"
 400036,31,Male,"Miner, Prospector, NEC"
-400036,Unknown,Unknown,Unknown
+400036,-1,Unknown,Unknown
 400089,57,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 400111,45,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 400119,60,Male,Water truck operator
@@ -636,7 +636,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 400173,55,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 400191,61,Male,"Utility man, Shift tech, Service/Dump truck operator"
 400191,36,Male,"Miner, Prospector, NEC"
-400191,Unknown,Unknown,Unknown
+400191,-1,Unknown,Unknown
 400191,28,Male,"Water circuit operator, Slurry operator, Mix operator, Pump operator worker"
 400191,30,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 400191,44,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
@@ -664,7 +664,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 400915,61,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 400915,52,Male,"Outside foreman, Leadman"
 400929,38,Male,"Clerk, Timekeeper, Office worker, Director of sales"
-400929,Unknown,Unknown,Unknown
+400929,-1,Unknown,Unknown
 401680,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 401690,57,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 401734,61,Female,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
@@ -718,7 +718,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 404053,45,Male,"Master mechanic, Foreman, Supervisor"
 404075,49,Male,"Electrician, Lineman"
 404075,62,Male,Unknown
-404157,Unknown,Unknown,Unknown
+404157,-1,Unknown,Unknown
 404157,37,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 404157,21,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 404289,25,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
@@ -734,13 +734,13 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 404716,42,Male,Unknown
 404716,20,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 404758,35,Female,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-404772,Unknown,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
+404772,-1,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 404802,58,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-404802,Unknown,Unknown,Unknown
+404802,-1,Unknown,Unknown
 404803,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 404950,60,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 404954,38,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-405095,Unknown,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
+405095,-1,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 405290,43,Male,Rotary bucket excavator operator
 405319,29,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 405319,24,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
@@ -752,10 +752,10 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 405570,37,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 405653,38,Male,"Groundman, Yardman"
 405690,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-405701,Unknown,Unknown,Unknown
-405701,Unknown,Unknown,Unknown
-405701,Unknown,Unknown,Unknown
-405701,Unknown,Unknown,Unknown
+405701,-1,Unknown,Unknown
+405701,-1,Unknown,Unknown
+405701,-1,Unknown,Unknown
+405701,-1,Unknown,Unknown
 405732,29,Male,"Miner, Prospector, NEC"
 405833,48,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 405838,39,Male,"Outside foreman, Leadman"
@@ -773,7 +773,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 500037,48,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 500037,66,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 500073,58,Male,"Master mechanic, Foreman, Supervisor"
-500344,Unknown,Unknown,Unknown
+500344,-1,Unknown,Unknown
 500344,55,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 500344,31,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 500344,62,Female,Lab Technician
@@ -785,7 +785,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 500790,36,Male,"Miner, NEC"
 500790,55,Male,"Electrician, Lineman"
 500790,26,Female,"Assayer, Geologist, Metallurgist, Engineer, Engineer management"
-500790,Unknown,Unknown,Unknown
+500790,-1,Unknown,Unknown
 500790,27,Male,"Apprentice, Trainee"
 500790,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 500864,38,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -810,16 +810,16 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 502962,49,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 502962,60,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 502962,24,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-502962,Unknown,Unknown,Unknown
+502962,-1,Unknown,Unknown
 503007,45,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 503222,24,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 503505,54,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 503505,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 503505,26,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-503505,Unknown,Unknown,Unknown
+503505,-1,Unknown,Unknown
 503505,29,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 503505,60,Male,"Utility man, Shift tech, Service/Dump truck operator"
-503505,Unknown,Unknown,Unknown
+503505,-1,Unknown,Unknown
 503528,22,Male,"Assayer, Geologist, Metallurgist, Engineer, Engineer management"
 503528,33,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 503528,41,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -829,12 +829,12 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 503528,24,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 503528,32,Male,"Steel worker, Iron metal worker, Iron worker"
 503672,23,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-503672,Unknown,Unknown,Unknown
+503672,-1,Unknown,Unknown
 503672,23,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-503672,Unknown,Unknown,Unknown
+503672,-1,Unknown,Unknown
 503672,50,Male,"Miner, NEC"
-503672,Unknown,Unknown,Unknown
-503672,Unknown,Unknown,Unknown
+503672,-1,Unknown,Unknown
+503672,-1,Unknown,Unknown
 503695,46,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 503695,36,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 503695,59,Female,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
@@ -920,8 +920,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 800798,64,Male,"Miner, Prospector, NEC"
 800798,39,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 800899,50,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-800903,Unknown,Male,Trespasser
-800903,Unknown,Male,Trespasser
+800903,-1,Male,Trespasser
+800903,-1,Male,Trespasser
 800903,55,Male,Drill operator
 800903,46,Male,Scraper-loader operator
 800903,33,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
@@ -977,7 +977,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 801347,40,Male,"Greaser, Grease man, Oiler, Lube man, Dragline oiler"
 801358,37,Female,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 801370,42,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-801370,Unknown,Unknown,Unknown
+801370,-1,Unknown,Unknown
 801370,31,Male,Unknown
 801370,55,Male,"Miner, Prospector, NEC"
 801400,45,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -1065,44 +1065,44 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 901232,55,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
 901236,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 901256,57,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-1000082,Unknown,Unknown,Unknown
-1000082,Unknown,Unknown,Unknown
-1000082,Unknown,Unknown,Unknown
+1000082,-1,Unknown,Unknown
+1000082,-1,Unknown,Unknown
+1000082,-1,Unknown,Unknown
 1000082,31,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-1000082,Unknown,Unknown,Unknown
+1000082,-1,Unknown,Unknown
 1000082,31,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 1000082,59,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1000082,27,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1000082,43,Male,"Master mechanic, Foreman, Supervisor"
-1000082,Unknown,Unknown,Unknown
-1000082,Unknown,Unknown,Unknown
+1000082,-1,Unknown,Unknown
+1000082,-1,Unknown,Unknown
 1000082,19,Male,"Miner, NEC"
 1000082,27,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1000082,29,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-1000082,Unknown,Unknown,Unknown
+1000082,-1,Unknown,Unknown
 1000082,22,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 1000082,56,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-1000082,Unknown,Unknown,Unknown
-1000082,Unknown,Unknown,Unknown
-1000082,Unknown,Unknown,Unknown
+1000082,-1,Unknown,Unknown
+1000082,-1,Unknown,Unknown
+1000082,-1,Unknown,Unknown
 1000082,19,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 1000082,52,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1000082,Unknown,Unknown,Unknown
+1000082,-1,Unknown,Unknown
 1000082,27,Male,"Miner, NEC"
 1000082,66,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1000082,Unknown,Unknown,Unknown
-1000083,Unknown,Unknown,Unknown
+1000082,-1,Unknown,Unknown
+1000083,-1,Unknown,Unknown
 1000083,18,Male,Drill helper
-1000088,Unknown,Unknown,Unknown
-1000088,Unknown,Unknown,Unknown
+1000088,-1,Unknown,Unknown
+1000088,-1,Unknown,Unknown
 1000088,32,Male,"Supply man, Supply worker, Nipper"
-1000088,Unknown,Unknown,Unknown
+1000088,-1,Unknown,Unknown
 1000088,51,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1000088,Unknown,Unknown,Unknown
+1000088,-1,Unknown,Unknown
 1000088,22,Male,"Supply man, Supply worker, Nipper"
 1000088,35,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
-1000088,Unknown,Unknown,Unknown
-1000088,Unknown,Unknown,Unknown
+1000088,-1,Unknown,Unknown
+1000088,-1,Unknown,Unknown
 1000088,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1000088,56,Male,"Greaser, Grease man, Oiler, Lube man, Dragline oiler"
 1000360,30,Male,"Groundman, Yardman"
@@ -1160,7 +1160,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1100244,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1100726,29,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 1100726,39,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-1100786,Unknown,Unknown,Unknown
+1100786,-1,Unknown,Unknown
 1101013,49,Male,"Ledgeman/hand, Quarry man"
 1101013,48,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1101013,53,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -1172,7 +1172,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1101170,55,Male,"Outside foreman, Leadman"
 1101197,26,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1101197,26,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-1101558,Unknown,Unknown,Unknown
+1101558,-1,Unknown,Unknown
 1101578,63,Male,"Dry screening plant operator, Screen house operator"
 1101578,38,Male,Unknown
 1101579,61,Male,"Miner, Prospector, NEC"
@@ -1216,14 +1216,14 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1103141,28,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1103141,36,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1103141,46,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
-1103143,Unknown,Unknown,Unknown
-1103143,Unknown,Unknown,Unknown
-1103143,Unknown,Unknown,Unknown
+1103143,-1,Unknown,Unknown
+1103143,-1,Unknown,Unknown
+1103143,-1,Unknown,Unknown
 1103143,34,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-1103143,Unknown,Unknown,Unknown
-1103143,Unknown,Unknown,Unknown
+1103143,-1,Unknown,Unknown
+1103143,-1,Unknown,Unknown
 1103147,38,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-1103147,Unknown,Unknown,Unknown
+1103147,-1,Unknown,Unknown
 1103147,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103147,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103147,41,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
@@ -1237,12 +1237,12 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1103147,53,Male,Coal dump operator
 1103147,56,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1103147,44,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-1103147,Unknown,Unknown,Unknown
+1103147,-1,Unknown,Unknown
 1103147,37,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1103147,44,Male,"Continuous miner operator, Coal mole operator"
 1103147,35,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103147,38,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
-1103147,Unknown,Unknown,Unknown
+1103147,-1,Unknown,Unknown
 1103147,49,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1103147,47,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1103147,45,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
@@ -1261,15 +1261,15 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1103189,30,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1103189,27,Male,"Brakeman, Roperider, Car runner, Spotterman, Snapper, Trip rider, Car rider, Flagman"
 1103189,49,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
-1103189,Unknown,Unknown,Unknown
-1103189,Unknown,Unknown,Unknown
+1103189,-1,Unknown,Unknown
+1103189,-1,Unknown,Unknown
 1103189,32,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 1103189,62,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 1103189,36,Male,"LW Propman, Propman helper, Move crew if LW, Move-up man, Jacksetter, Advanceman LW helper"
 1103189,34,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 1103189,24,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 1103189,29,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-1103189,Unknown,Unknown,Unknown
+1103189,-1,Unknown,Unknown
 1103189,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103189,47,Male,"Scoop tram operator, Load/Haul/Dump operator"
 1103189,52,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -1298,9 +1298,9 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1103193,46,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1103193,33,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1103193,32,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1103193,Unknown,Unknown,Unknown
+1103193,-1,Unknown,Unknown
 1103193,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1103193,Unknown,Unknown,Unknown
+1103193,-1,Unknown,Unknown
 1103193,52,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 1103193,29,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103193,38,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -1311,7 +1311,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1103203,47,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103203,35,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103203,30,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-1103212,Unknown,Unknown,Unknown
+1103212,-1,Unknown,Unknown
 1103213,64,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103230,35,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1103230,32,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
@@ -1345,7 +1345,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1200063,42,Male,Unknown
 1200063,39,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1200063,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1200063,Unknown,Unknown,Unknown
+1200063,-1,Unknown,Unknown
 1200064,39,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 1200064,43,Male,"Utility man, Shift tech, Service/Dump truck operator"
 1200064,52,Male,"Crane operator, Mobile equipment operator (MEO), Dragline operator, Dropball operator, Rigger"
@@ -1373,10 +1373,10 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1200136,40,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 1200254,31,Male,"Mine manager, Mine foreman, Mine owner"
 1200254,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1200426,Unknown,Unknown,Unknown
+1200426,-1,Unknown,Unknown
 1200426,34,Male,"Dryer operator, Kiln operator, Dry plant operator, Fluid operator, Bed dryer operator"
-1200426,Unknown,Unknown,Unknown
-1200426,Unknown,Unknown,Unknown
+1200426,-1,Unknown,Unknown
+1200426,-1,Unknown,Unknown
 1200426,49,Male,"Electrician, Lineman"
 1200426,36,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 1200582,49,Male,"Crane operator, Mobile equipment operator (MEO), Dragline operator, Dropball operator, Rigger"
@@ -1399,7 +1399,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1201732,38,Male,"Greaser, Grease man, Oiler, Lube man, Dragline oiler"
 1201732,49,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1201784,48,Female,Welder (shop)
-1201994,Unknown,Unknown,Unknown
+1201994,-1,Unknown,Unknown
 1202027,74,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 1202280,46,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1202295,42,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -1418,18 +1418,18 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1202372,61,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1202374,38,Female,Fine coal plant operator
 1202388,21,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1202388,Unknown,Unknown,Unknown
+1202388,-1,Unknown,Unknown
 1202388,41,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1202388,36,Male,Coal sampler
-1202388,Unknown,Unknown,Unknown
-1202388,Unknown,Unknown,Unknown
+1202388,-1,Unknown,Unknown
+1202388,-1,Unknown,Unknown
 1202388,54,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1202388,28,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1202388,53,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1202394,32,Male,"Master mechanic, Foreman, Supervisor"
 1202394,42,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1202394,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1202394,Unknown,Unknown,Unknown
+1202394,-1,Unknown,Unknown
 1202394,52,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1202394,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1202394,30,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -1438,11 +1438,11 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1202394,43,Male,Pumper
 1202394,34,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1202394,33,Male,"Miner, NEC"
-1202394,Unknown,Unknown,Unknown
+1202394,-1,Unknown,Unknown
 1202394,41,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1202394,42,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1202394,55,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1202394,Unknown,Unknown,Unknown
+1202394,-1,Unknown,Unknown
 1202418,33,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1202418,54,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1202418,26,Male,"Utility man, Errand boy, Service truck operator"
@@ -1458,7 +1458,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1202418,35,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1202418,60,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 1202418,31,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-1202418,Unknown,Unknown,Unknown
+1202418,-1,Unknown,Unknown
 1202418,38,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 1202418,52,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1202422,57,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
@@ -1486,7 +1486,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1300097,48,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 1300097,45,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1300120,62,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-1300125,Unknown,Unknown,Unknown
+1300125,-1,Unknown,Unknown
 1300150,27,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 1300193,44,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 1300194,63,Male,"Crusher attendant/operator, Pan feeder operator/worker"
@@ -1542,7 +1542,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1400124,52,Male,"Ledgeman/hand, Quarry man"
 1400156,23,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 1400156,48,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-1400309,Unknown,Unknown,Unknown
+1400309,-1,Unknown,Unknown
 1400411,28,Male,"Hoistman, Hoist operator"
 1400411,21,Male,"Utility man, Errand boy, Service truck operator"
 1400411,64,Male,"Backhoe operator, Trackhoe operator, Crane operator"
@@ -1584,7 +1584,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1500062,47,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1500062,29,Male,"Utility man, Shift tech, Service/Dump truck operator"
 1500062,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1500062,Unknown,Unknown,Unknown
+1500062,-1,Unknown,Unknown
 1500063,48,Male,Drill operator
 1500072,39,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
 1500073,49,Male,"Miner, Prospector, NEC"
@@ -1605,22 +1605,22 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1500112,33,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1500113,32,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1502134,61,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
-1502263,Unknown,Unknown,Unknown
+1502263,-1,Unknown,Unknown
 1502263,52,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1502263,Unknown,Unknown,Unknown
+1502263,-1,Unknown,Unknown
 1502263,33,Female,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1502263,32,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1502263,39,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1502263,Unknown,Unknown,Unknown
-1502263,Unknown,Unknown,Unknown
-1502263,Unknown,Unknown,Unknown
+1502263,-1,Unknown,Unknown
+1502263,-1,Unknown,Unknown
+1502263,-1,Unknown,Unknown
 1504469,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1504469,48,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 1507101,57,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1507101,47,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-1509636,Unknown,Unknown,Unknown
-1509636,Unknown,Unknown,Unknown
-1509636,Unknown,Unknown,Unknown
+1509636,-1,Unknown,Unknown
+1509636,-1,Unknown,Unknown
+1509636,-1,Unknown,Unknown
 1511162,53,Male,Welder (shop)
 1511757,64,Male,"Master mechanic, Foreman, Supervisor"
 1511757,51,Male,Welder (non-shop)
@@ -1628,10 +1628,10 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1512753,53,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 1512753,53,Male,"Electrician, Lineman"
 1512753,37,Male,"Supply man, Nipper"
-1512753,Unknown,Unknown,Unknown
+1512753,-1,Unknown,Unknown
 1512753,33,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 1512753,35,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-1512753,Unknown,Unknown,Unknown
+1512753,-1,Unknown,Unknown
 1514335,55,Male,Fine coal plant operator
 1514849,45,Male,Truck driver
 1515215,62,Male,Driller operator
@@ -1639,48 +1639,48 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1515215,41,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 1515215,52,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
 1515452,23,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-1515978,Unknown,Unknown,Unknown
+1515978,-1,Unknown,Unknown
 1516470,48,Male,Welder (shop)
 1516470,48,Male,Welder (shop)
 1516470,57,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 1516734,53,Male,"Electrician, Lineman"
 1517216,27,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1517216,44,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
-1517216,Unknown,Unknown,Unknown
+1517216,-1,Unknown,Unknown
 1517216,36,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-1517216,Unknown,Unknown,Unknown
-1517216,Unknown,Unknown,Unknown
-1517216,Unknown,Unknown,Unknown
+1517216,-1,Unknown,Unknown
+1517216,-1,Unknown,Unknown
+1517216,-1,Unknown,Unknown
 1517216,41,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1517216,63,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-1517216,Unknown,Unknown,Unknown
+1517216,-1,Unknown,Unknown
 1517216,30,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 1517216,36,Male,"Utility man, Errand boy, Service truck operator"
 1517216,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1517216,27,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1517216,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1517216,Unknown,Unknown,Unknown
+1517216,-1,Unknown,Unknown
 1517216,26,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1517216,32,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-1517216,Unknown,Unknown,Unknown
-1517216,Unknown,Unknown,Unknown
+1517216,-1,Unknown,Unknown
+1517216,-1,Unknown,Unknown
 1517216,58,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 1517216,22,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-1517234,Unknown,Unknown,Unknown
+1517234,-1,Unknown,Unknown
 1517332,33,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1518001,60,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
 1518040,57,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1518068,27,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
 1518147,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1518147,46,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
-1518157,Unknown,Unknown,Unknown
+1518157,-1,Unknown,Unknown
 1518157,25,Male,Welder (non-shop)
-1518157,Unknown,Unknown,Unknown
+1518157,-1,Unknown,Unknown
 1518157,59,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 1518198,45,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1518198,36,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-1518198,Unknown,Unknown,Unknown
-1518361,Unknown,Unknown,Unknown
+1518198,-1,Unknown,Unknown
+1518361,-1,Unknown,Unknown
 1518384,44,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1518418,60,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1518418,54,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
@@ -1696,7 +1696,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1518946,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1518966,45,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
 1518986,28,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-1519094,Unknown,Unknown,Unknown
+1519094,-1,Unknown,Unknown
 1519094,59,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1519106,26,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1519106,62,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -1742,26 +1742,26 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1519374,51,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1519374,55,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 1519374,42,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1519405,Unknown,Unknown,Unknown
-1519405,Unknown,Unknown,Unknown
-1519405,Unknown,Unknown,Unknown
-1519405,Unknown,Unknown,Unknown
+1519405,-1,Unknown,Unknown
+1519405,-1,Unknown,Unknown
+1519405,-1,Unknown,Unknown
+1519405,-1,Unknown,Unknown
 1519419,33,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 1519432,37,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 1519441,53,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
-1519501,Unknown,Unknown,Unknown
+1519501,-1,Unknown,Unknown
 1519515,51,Male,"Supply man, Supply worker, Nipper"
-1519535,Unknown,Unknown,Unknown
+1519535,-1,Unknown,Unknown
 1519602,58,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1519684,44,Male,"Continuous miner operator, Coal mole operator"
 1519714,62,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 1519724,46,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1519726,20,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
 1519744,22,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-1519744,Unknown,Unknown,Unknown
+1519744,-1,Unknown,Unknown
 1519744,23,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1519744,51,Male,"Scoop tram operator, Load/Haul/Dump operator"
-1519744,Unknown,Unknown,Unknown
+1519744,-1,Unknown,Unknown
 1519744,23,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
 1519744,37,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1519744,51,Male,"Continuous miner operator, Coal mole operator"
@@ -1770,20 +1770,20 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1519744,25,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1519744,24,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1519744,35,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-1519744,Unknown,Unknown,Unknown
+1519744,-1,Unknown,Unknown
 1519744,50,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-1519744,Unknown,Unknown,Unknown
+1519744,-1,Unknown,Unknown
 1519744,56,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1519744,28,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1519744,47,Male,"Master mechanic, Foreman, Supervisor"
 1519744,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1519744,Unknown,Unknown,Unknown
+1519744,-1,Unknown,Unknown
 1519744,33,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 1519744,52,Male,"Continuous miner operator, Coal mole operator"
 1519766,56,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
 1519784,66,Male,"Master mechanic, Foreman, Supervisor"
 1519806,24,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-1519806,Unknown,Unknown,Unknown
+1519806,-1,Unknown,Unknown
 1519806,37,Male,Unknown
 1519806,35,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 1519806,50,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -1792,7 +1792,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1519808,29,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 1519815,28,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1519827,32,Male,"Electrician, Lineman"
-1519827,Unknown,Unknown,Unknown
+1519827,-1,Unknown,Unknown
 1519833,35,Male,Welder (non-shop)
 1519833,46,Male,"Miner, Prospector, NEC"
 1519838,33,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -1826,20 +1826,20 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1600354,29,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 1600354,29,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1600358,59,Male,"Electrician, Lineman"
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
 1600358,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
-1600358,Unknown,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
+1600358,-1,Unknown,Unknown
 1600509,26,Male,"Miner, NEC"
 1600509,38,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1600509,27,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -1855,7 +1855,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1600970,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1600970,63,Male,"Clerk, Timekeeper, Office worker, Director of sales"
 1601031,52,Male,Pumper
-1601031,Unknown,Unknown,Unknown
+1601031,-1,Unknown,Unknown
 1601267,35,Male,"Outside foreman, Leadman"
 1601267,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 1601267,37,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -1930,11 +1930,11 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 1900371,48,Male,"Outside foreman, Leadman"
 1900553,26,Male,Welder (non-shop)
 1900557,60,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-2000038,Unknown,Unknown,Unknown
-2000038,Unknown,Unknown,Unknown
-2000038,Unknown,Unknown,Unknown
+2000038,-1,Unknown,Unknown
+2000038,-1,Unknown,Unknown
+2000038,-1,Unknown,Unknown
 2000038,53,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2000038,Unknown,Unknown,Unknown
+2000038,-1,Unknown,Unknown
 2000038,25,Male,"Steel worker, Iron metal worker, Iron worker"
 2000042,46,Female,"Assistant mine foreman, Assistant mine manager"
 2000042,38,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
@@ -1943,7 +1943,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2000044,31,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 2000044,23,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2000044,41,Male,"Ledgeman/hand, Quarry man"
-2000044,Unknown,Unknown,Unknown
+2000044,-1,Unknown,Unknown
 2000051,38,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2000061,42,Male,"Electrician, Lineman"
 2000062,31,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -1954,7 +1954,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2000062,38,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2000062,32,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2000065,37,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-2000362,Unknown,Unknown,Unknown
+2000362,-1,Unknown,Unknown
 2000422,60,Male,"Miner, Prospector, NEC"
 2000422,45,Male,"Utility man, Shift tech, Service/Dump truck operator"
 2000422,37,Male,"Steel worker, Iron metal worker, Iron worker"
@@ -1966,7 +1966,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2000422,42,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2000422,22,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2000422,51,Male,Welder (shop)
-2000422,Unknown,Unknown,Unknown
+2000422,-1,Unknown,Unknown
 2000422,46,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2000422,55,Male,Welder (shop)
 2000422,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -1975,7 +1975,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2000422,51,Male,"Electrician, Lineman"
 2000422,57,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2000422,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2000552,Unknown,Unknown,Unknown
+2000552,-1,Unknown,Unknown
 2000552,53,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2000552,29,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 2000608,66,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -2000,8 +2000,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2003310,33,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 2003316,47,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 2003447,30,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
-2003454,Unknown,Unknown,Unknown
-2003454,Unknown,Unknown,Unknown
+2003454,-1,Unknown,Unknown
+2003454,-1,Unknown,Unknown
 2003504,23,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2100023,36,Male,"Outside foreman, Leadman"
 2100023,58,Male,"Outside foreman, Leadman"
@@ -2018,7 +2018,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2100282,53,Female,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2100282,33,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2100282,60,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-2100282,Unknown,Unknown,Unknown
+2100282,-1,Unknown,Unknown
 2100282,55,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2100282,39,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2100282,52,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -2030,8 +2030,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2100790,46,Male,Forklift operator
 2100820,60,Female,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2100820,20,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2100820,Unknown,Unknown,Unknown
-2100820,Unknown,Unknown,Unknown
+2100820,-1,Unknown,Unknown
+2100820,-1,Unknown,Unknown
 2100820,59,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2100820,40,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2100820,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -2068,12 +2068,12 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2102449,33,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2102449,63,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2102449,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2102449,Unknown,Unknown,Unknown
+2102449,-1,Unknown,Unknown
 2102449,56,Female,"Driller, Highwall operator, Highwall drill operator"
 2102449,36,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 2102449,43,Male,"Assistant mine foreman, Assistant mine manager"
 2102449,51,Male,"Utility man, Shift tech, Service/Dump truck operator"
-2102449,Unknown,Unknown,Unknown
+2102449,-1,Unknown,Unknown
 2102449,42,Male,"Utility man, Shift tech, Service/Dump truck operator"
 2102449,44,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2102614,23,Male,"Crusher attendant/operator, Pan feeder operator/worker"
@@ -2089,7 +2089,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2103288,28,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2103352,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2103352,40,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-2103352,Unknown,Unknown,Unknown
+2103352,-1,Unknown,Unknown
 2103369,54,Male,"Master mechanic, Foreman, Supervisor"
 2103403,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2103403,28,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
@@ -2187,8 +2187,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2300495,49,Male,"Miner, NEC"
 2300495,47,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2300495,36,Female,"Miner, NEC"
-2300495,Unknown,Unknown,Unknown
-2300495,Unknown,Unknown,Unknown
+2300495,-1,Unknown,Unknown
+2300495,-1,Unknown,Unknown
 2300499,51,Male,"Miner, NEC"
 2300499,37,Male,"Miner, NEC"
 2300499,62,Male,"Utility man, Errand boy, Service truck operator"
@@ -2203,7 +2203,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2300499,35,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2300499,35,Male,"Miner, NEC"
 2300542,61,Male,"Utility man, Shift tech, Service/Dump truck operator"
-2300542,Unknown,Unknown,Unknown
+2300542,-1,Unknown,Unknown
 2300542,50,Male,"Master mechanic, Foreman, Supervisor"
 2300542,56,Male,"Scoop tram operator, Load/Haul/Dump operator"
 2300542,61,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -2262,7 +2262,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2301892,54,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2301918,44,Male,"Miner, Prospector, NEC"
 2301957,25,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-2302043,Unknown,Unknown,Unknown
+2302043,-1,Unknown,Unknown
 2302043,54,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 2302071,50,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2302120,55,Male,Lab Technician
@@ -2325,7 +2325,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2302517,36,Male,"Barge/Boat/Dredge/Towbarge/Towboat/Leach operator, Riverman, Deck hand"
 2302517,30,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2302523,38,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2400014,Unknown,Unknown,Unknown
+2400014,-1,Unknown,Unknown
 2400014,53,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2400014,59,Male,"Electrician, Lineman"
 2400014,59,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
@@ -2343,7 +2343,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2400338,43,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2400338,21,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2400338,41,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-2400839,Unknown,Unknown,Unknown
+2400839,-1,Unknown,Unknown
 2400910,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2400910,46,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 2400910,55,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
@@ -2356,17 +2356,17 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2401490,44,Male,"Continuous miner operator, Coal mole operator"
 2401490,52,Male,"Miner, NEC"
 2401490,39,Male,"Miner, Prospector, NEC"
-2401490,Unknown,Unknown,Unknown
-2401490,Unknown,Unknown,Unknown
+2401490,-1,Unknown,Unknown
+2401490,-1,Unknown,Unknown
 2401490,39,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2401490,35,Male,"Miner, NEC"
 2401490,64,Male,"Miner, NEC"
 2401490,36,Male,"Miner, NEC"
-2401490,Unknown,Unknown,Unknown
+2401490,-1,Unknown,Unknown
 2401490,46,Male,"Miner, Prospector, NEC"
 2401490,33,Male,"Miner, NEC"
 2401490,41,Male,"Miner, NEC"
-2401490,Unknown,Unknown,Unknown
+2401490,-1,Unknown,Unknown
 2401490,39,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 2401490,39,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2401490,41,Male,"Electrician, Lineman"
@@ -2377,7 +2377,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2401490,31,Male,"Miner, NEC"
 2401490,63,Male,"Miner, NEC"
 2401490,44,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-2401490,Unknown,Unknown,Unknown
+2401490,-1,Unknown,Unknown
 2401490,34,Male,"Miner, NEC"
 2401490,32,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 2401490,63,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -2400,7 +2400,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2401879,51,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2401879,43,Male,"Steel worker, Iron metal worker, Iron worker"
 2401879,39,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
-2401879,Unknown,Unknown,Unknown
+2401879,-1,Unknown,Unknown
 2401879,39,Male,"Miner, NEC"
 2401879,36,Male,"Miner, NEC"
 2401879,39,Male,"Miner, NEC"
@@ -2413,7 +2413,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2401879,63,Male,"Miner, NEC"
 2401879,58,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2401879,27,Male,"Miner, NEC"
-2401879,Unknown,Unknown,Unknown
+2401879,-1,Unknown,Unknown
 2401879,45,Male,"Miner, NEC"
 2401879,32,Male,"Miner, NEC"
 2401879,28,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -2423,9 +2423,9 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2401879,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2401879,26,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2401950,31,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-2401950,Unknown,Unknown,Unknown
+2401950,-1,Unknown,Unknown
 2401950,39,Male,"Roof bolter helper, Rock bolter helper, Pinner helper"
-2401950,Unknown,Unknown,Unknown
+2401950,-1,Unknown,Unknown
 2401950,60,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 2401950,32,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2401950,48,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
@@ -2524,7 +2524,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2600827,20,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2600827,47,Female,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2600827,34,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-2600827,Unknown,Unknown,Unknown
+2600827,-1,Unknown,Unknown
 2600827,39,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 2600827,35,Male,"Assayer, Geologist, Metallurgist, Engineer, Engineer management"
 2600827,57,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
@@ -2538,7 +2538,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2601043,22,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2601089,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2601089,48,Male,"Master mechanic, Foreman, Supervisor"
-2601089,Unknown,Unknown,Unknown
+2601089,-1,Unknown,Unknown
 2601089,55,Female,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 2601621,53,Male,"Groundman, Yardman"
 2601621,58,Male,"Electrician, Lineman"
@@ -2603,27 +2603,27 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2602081,60,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2602089,53,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 2602139,33,Male,"Mine manager, Mine foreman, Mine owner"
-2602142,Unknown,Male,Trespasser
+2602142,-1,Male,Trespasser
 2602142,46,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 2602232,46,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2602246,Unknown,Unknown,Unknown
-2602246,Unknown,Unknown,Unknown
+2602246,-1,Unknown,Unknown
+2602246,-1,Unknown,Unknown
 2602246,39,Male,"Miner, NEC"
 2602246,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2602246,18,Male,Drill helper
 2602246,64,Male,"Refuse truck driver, Backfill truck driver, Stock pile truck driver"
 2602286,54,Male,"Miner, NEC"
 2602286,46,Male,"Miner, NEC"
-2602286,Unknown,Unknown,Unknown
+2602286,-1,Unknown,Unknown
 2602286,37,Male,"Miner, NEC"
 2602286,38,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2602286,30,Male,Drill helper
 2602286,44,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2602286,23,Male,"Shaftcrew, Shaft repair, Skip tender, Station tender"
-2602286,Unknown,Unknown,Unknown
+2602286,-1,Unknown,Unknown
 2602286,26,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2602286,38,Male,"Miner, NEC"
-2602286,Unknown,Unknown,Unknown
+2602286,-1,Unknown,Unknown
 2602299,35,Male,"Miner, NEC"
 2602299,39,Male,"Miner, NEC"
 2602299,21,Male,"Miner, NEC"
@@ -2631,11 +2631,11 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2602397,23,Male,Truck driver
 2602397,46,Male,"Miner, NEC"
 2602512,40,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-2602512,Unknown,Unknown,Unknown
+2602512,-1,Unknown,Unknown
 2602512,29,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 2602512,42,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2602512,Unknown,Unknown,Unknown
-2602512,Unknown,Unknown,Unknown
+2602512,-1,Unknown,Unknown
+2602512,-1,Unknown,Unknown
 2602512,43,Male,"Miner, NEC"
 2602512,51,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2602520,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -2644,8 +2644,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2602573,26,Male,Unknown
 2602573,29,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 2602573,23,Female,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-2602573,Unknown,Unknown,Unknown
-2602573,Unknown,Unknown,Unknown
+2602573,-1,Unknown,Unknown
+2602573,-1,Unknown,Unknown
 2602657,32,Female,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2602657,58,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 2602657,53,Male,"Electrician, Lineman"
@@ -2654,7 +2654,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2602661,33,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 2602673,55,Male,"Electrician, Lineman"
 2602673,53,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-2602673,Unknown,Unknown,Unknown
+2602673,-1,Unknown,Unknown
 2602674,40,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 2602674,63,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2602674,51,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -2666,15 +2666,15 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2602678,21,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 2602691,46,Male,"Miner, NEC"
 2602691,59,Male,"Miner, NEC"
-2602691,Unknown,Unknown,Unknown
-2602691,Unknown,Unknown,Unknown
+2602691,-1,Unknown,Unknown
+2602691,-1,Unknown,Unknown
 2602691,19,Male,Truck driver
-2602693,Unknown,Unknown,Unknown
+2602693,-1,Unknown,Unknown
 2602693,54,Male,"Miner, NEC"
-2602711,Unknown,Unknown,Unknown
-2602711,Unknown,Unknown,Unknown
+2602711,-1,Unknown,Unknown
+2602711,-1,Unknown,Unknown
 2602711,38,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2602711,Unknown,Unknown,Unknown
+2602711,-1,Unknown,Unknown
 2602711,34,Male,"Clerk, Timekeeper, Office worker, Director of sales"
 2602711,41,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
 2602711,36,Male,"Miner, NEC"
@@ -2703,7 +2703,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2602822,47,Male,"Electrician, Lineman"
 2602823,62,Male,"Miner, Prospector, NEC"
 2602823,22,Male,Welder (shop)
-2602830,Unknown,Unknown,Unknown
+2602830,-1,Unknown,Unknown
 2602830,47,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2700074,58,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 2700083,40,Male,"Ledgeman/hand, Quarry man"
@@ -2787,7 +2787,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 2902152,33,Male,Welder (shop)
 2902170,61,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 2902170,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-2902170,Unknown,Unknown,Unknown
+2902170,-1,Unknown,Unknown
 2902170,56,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 2902170,42,Male,"Miner, NEC"
 2902170,36,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -2831,14 +2831,14 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3000585,61,Male,Welder (shop)
 3000663,43,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 3000663,50,Male,"Electrician, Lineman"
-3000663,Unknown,Unknown,Unknown
+3000663,-1,Unknown,Unknown
 3000663,29,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3000663,24,Male,"Miner, NEC"
-3000663,Unknown,Unknown,Unknown
+3000663,-1,Unknown,Unknown
 3000663,28,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-3000663,Unknown,Unknown,Unknown
-3000663,Unknown,Unknown,Unknown
-3000663,Unknown,Unknown,Unknown
+3000663,-1,Unknown,Unknown
+3000663,-1,Unknown,Unknown
+3000663,-1,Unknown,Unknown
 3000663,36,Male,"Shaftcrew, Shaft repair, Skip tender, Station tender"
 3000663,40,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 3000820,57,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -2985,7 +2985,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3300161,40,Male,"Utility man, Shift tech, Service/Dump truck operator"
 3300161,32,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 3300161,61,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-3300161,Unknown,Unknown,Unknown
+3300161,-1,Unknown,Unknown
 3300166,59,Male,"Ball/Rod/Pebble/Hand/Limestone/Dry mill operator, Roller operator"
 3300166,34,Male,"Utility man, Shift tech, Service/Dump truck operator"
 3300170,49,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -2998,7 +2998,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3300968,49,Male,"Utility man, Errand boy, Service truck operator"
 3301070,44,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 3301070,49,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
-3301184,Unknown,Unknown,Unknown
+3301184,-1,Unknown,Unknown
 3301184,69,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 3301355,41,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3301393,27,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -3008,34 +3008,34 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3301466,56,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 3301513,62,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 3301944,57,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
-3301993,Unknown,Unknown,Unknown
+3301993,-1,Unknown,Unknown
 3301993,60,Male,Forklift operator
-3301993,Unknown,Unknown,Unknown
+3301993,-1,Unknown,Unknown
 3301993,57,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
 3301993,35,Male,"Shaftcrew, Shaft repair, Skip tender, Station tender"
-3301994,Unknown,Unknown,Unknown
+3301994,-1,Unknown,Unknown
 3301994,56,Male,"Warehouse, Supply handler"
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
 3301994,35,Male,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
-3301994,Unknown,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
+3301994,-1,Unknown,Unknown
 3301994,38,Male,"Electrician, Lineman"
 3302476,60,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3302565,57,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 3302913,56,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3303781,50,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3303793,46,Male,"Washer operator, Sizing operator"
-3303848,Unknown,Unknown,Unknown
+3303848,-1,Unknown,Unknown
 3304121,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3304147,55,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3304147,22,Male,Rotary bucket excavator operator
@@ -3044,7 +3044,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3304260,41,Male,Welder (shop)
 3304381,48,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
 3304481,25,Male,"Outside foreman, Leadman"
-3304526,Unknown,Unknown,Unknown
+3304526,-1,Unknown,Unknown
 3304526,46,Male,"Electrician, Lineman"
 3304547,52,Male,"Miner, Prospector, NEC"
 3304547,49,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
@@ -3061,7 +3061,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3400023,35,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3400023,44,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3400026,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-3400026,Unknown,Unknown,Unknown
+3400026,-1,Unknown,Unknown
 3400026,27,Male,"Miner, Prospector, NEC"
 3400040,36,Male,"Ledgeman/hand, Quarry man"
 3400050,25,Male,Welder (non-shop)
@@ -3099,7 +3099,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3401400,23,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3401400,49,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3401455,36,Male,"Outside foreman, Leadman"
-3401634,Unknown,Unknown,Unknown
+3401634,-1,Unknown,Unknown
 3401651,32,Male,"Utility man, Shift tech, Service/Dump truck operator"
 3401808,26,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 3401808,41,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -3112,7 +3112,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3401977,32,Male,"Mine manager, Mine foreman, Mine owner"
 3401991,48,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3402084,53,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-3402104,Unknown,Unknown,Unknown
+3402104,-1,Unknown,Unknown
 3402138,56,Male,"Backhoe operator, Trackhoe operator"
 3402178,54,Male,"Utility man, Shift tech, Service/Dump truck operator"
 3402185,49,Female,"Car trimmer, Car loader, Bin puller, Truck loader"
@@ -3234,7 +3234,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3601977,53,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3601977,26,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3601977,44,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-3601977,Unknown,Unknown,Unknown
+3601977,-1,Unknown,Unknown
 3602073,34,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 3602073,43,Male,Welder (shop)
 3602073,60,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
@@ -3264,22 +3264,22 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3605018,34,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 3605018,40,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 3605018,40,Male,"Belt cleaner, Picker"
-3605018,Unknown,Unknown,Unknown
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,49,Male,"Utility man, Errand boy, Service truck operator"
 3605018,47,Male,"Belt cleaner, Picker"
 3605018,54,Male,"Trackman, Track worker, Track gang"
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,44,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,40,Male,"Gathering arm loader operator, Loading machine operator, Joy loader operator"
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,46,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,62,Male,"Rodman, Surveyor/Transit helper"
 3605018,43,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 3605018,56,Male,"Electrician, Lineman"
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,35,Male,"Miner, NEC"
 3605018,42,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 3605018,44,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -3287,17 +3287,17 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3605018,31,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 3605018,53,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 3605018,27,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,30,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 3605018,39,Male,"Continuous miner operator, Coal mole operator"
 3605018,53,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 3605018,42,Male,Drill operator
-3605018,Unknown,Unknown,Unknown
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,30,Male,Loading machine/Gather arm loader helper
 3605018,49,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 3605018,49,Male,"Utility man, Shift tech, Service/Dump truck operator"
-3605018,Unknown,Unknown,Unknown
+3605018,-1,Unknown,Unknown
 3605018,61,Male,"Car trimmer, Car loader, Bin puller, Truck loader"
 3605018,38,Male,Headgate operator
 3605464,52,Male,Mechanical  scaling worker
@@ -3310,8 +3310,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3606468,30,Male,"Utility man, Errand boy, Service truck operator"
 3606468,46,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 3606468,73,Male,"Utility man, Shift tech, Service/Dump truck operator"
-3606468,Unknown,Unknown,Unknown
-3606468,Unknown,Unknown,Unknown
+3606468,-1,Unknown,Unknown
+3606468,-1,Unknown,Unknown
 3606980,57,Male,Welder (shop)
 3606980,38,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3606980,59,Male,Welder (shop)
@@ -3323,7 +3323,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3607230,21,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 3607230,26,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 3607230,20,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-3607230,Unknown,Unknown,Unknown
+3607230,-1,Unknown,Unknown
 3607230,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3607230,39,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
 3607230,38,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
@@ -3333,32 +3333,32 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3607230,44,Male,"Continuous miner operator, Coal mole operator"
 3607230,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3607230,47,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
-3607230,Unknown,Unknown,Unknown
+3607230,-1,Unknown,Unknown
 3607230,45,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-3607230,Unknown,Unknown,Unknown
+3607230,-1,Unknown,Unknown
 3607230,46,Female,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 3607230,48,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3607230,66,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 3607230,34,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
-3607230,Unknown,Unknown,Unknown
+3607230,-1,Unknown,Unknown
 3607230,23,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-3607230,Unknown,Unknown,Unknown
-3607230,Unknown,Unknown,Unknown
+3607230,-1,Unknown,Unknown
+3607230,-1,Unknown,Unknown
 3607230,27,Male,"Continuous miner operator, Coal mole operator"
-3607230,Unknown,Unknown,Unknown
+3607230,-1,Unknown,Unknown
 3607230,29,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 3607230,34,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 3607230,46,Male,"Mine manager, Mine foreman, Mine owner"
 3607230,37,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 3607230,42,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-3607230,Unknown,Unknown,Unknown
-3607230,Unknown,Unknown,Unknown
+3607230,-1,Unknown,Unknown
+3607230,-1,Unknown,Unknown
 3607230,29,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3607230,42,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 3607230,41,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 3607230,23,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 3607230,66,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-3607230,Unknown,Unknown,Unknown
+3607230,-1,Unknown,Unknown
 3607230,33,Female,"Security guard, Watchman"
 3607266,60,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3607416,46,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -3367,8 +3367,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3607416,24,Male,"Miner, NEC"
 3607416,47,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 3607416,59,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
-3607416,Unknown,Unknown,Unknown
-3607416,Unknown,Unknown,Unknown
+3607416,-1,Unknown,Unknown
+3607416,-1,Unknown,Unknown
 3607416,63,Male,"Utility man, Errand boy, Service truck operator"
 3607416,57,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
 3607416,49,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
@@ -3376,9 +3376,9 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3607416,32,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 3607416,22,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 3607416,40,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
-3607416,Unknown,Unknown,Unknown
+3607416,-1,Unknown,Unknown
 3607416,42,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
-3607416,Unknown,Unknown,Unknown
+3607416,-1,Unknown,Unknown
 3607433,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3607474,37,Male,"Miner, Prospector, NEC"
 3607474,23,Male,"Miner, Prospector, NEC"
@@ -3396,7 +3396,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3607653,59,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 3607667,29,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
 3607667,45,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-3607805,Unknown,Unknown,Unknown
+3607805,-1,Unknown,Unknown
 3607805,59,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 3607828,68,Male,Water truck operator
 3607828,37,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
@@ -3408,11 +3408,11 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3608033,20,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 3608093,64,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3608135,48,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-3608135,Unknown,Unknown,Unknown
+3608135,-1,Unknown,Unknown
 3608135,58,Male,"Miner, NEC"
 3608445,33,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 3608445,40,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-3608484,Unknown,Unknown,Unknown
+3608484,-1,Unknown,Unknown
 3608550,27,Male,Welder (shop)
 3608550,18,Male,Welder (shop)
 3608550,35,Male,Drill operator
@@ -3434,8 +3434,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3608891,59,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3608895,52,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 3608977,36,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-3609058,Unknown,Unknown,Unknown
-3609058,Unknown,Unknown,Unknown
+3609058,-1,Unknown,Unknown
+3609058,-1,Unknown,Unknown
 3609122,37,Male,Welder (non-shop)
 3609127,34,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
 3609127,28,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
@@ -3460,7 +3460,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3609394,35,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 3609394,45,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 3609394,60,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-3609394,Unknown,Unknown,Unknown
+3609394,-1,Unknown,Unknown
 3609401,46,Male,"Greaser, Grease man, Oiler, Lube man, Dragline oiler"
 3609401,49,Male,Welder (non-shop)
 3609407,30,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
@@ -3484,7 +3484,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3609666,22,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 3609666,31,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
 3609666,30,Male,"Scoop tram operator, Load/Haul/Dump operator"
-3609666,Unknown,Unknown,Unknown
+3609666,-1,Unknown,Unknown
 3609666,33,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 3609750,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3609750,24,Male,"Utility man, Shift tech, Service/Dump truck operator"
@@ -3494,13 +3494,13 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3609893,47,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
 3609893,29,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 3609893,45,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-3609893,Unknown,Unknown,Unknown
+3609893,-1,Unknown,Unknown
 3609893,41,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3609893,64,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3609893,48,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 3609895,45,Female,"Weighman, Scale person"
 3609923,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-3609972,Unknown,Unknown,Unknown
+3609972,-1,Unknown,Unknown
 3609972,56,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 3609972,28,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 3609973,39,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
@@ -3512,27 +3512,27 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3610036,35,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 3610041,38,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3610041,32,Male,"Scoop tram operator, Load/Haul/Dump operator"
-3610045,Unknown,Unknown,Unknown
+3610045,-1,Unknown,Unknown
 3610045,29,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-3610045,Unknown,Unknown,Unknown
-3610045,Unknown,Unknown,Unknown
+3610045,-1,Unknown,Unknown
+3610045,-1,Unknown,Unknown
 3610045,40,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-3610045,Unknown,Unknown,Unknown
-3610045,Unknown,Unknown,Unknown
-3610045,Unknown,Unknown,Unknown
-3610045,Unknown,Unknown,Unknown
-3610045,Unknown,Unknown,Unknown
-3610045,Unknown,Unknown,Unknown
+3610045,-1,Unknown,Unknown
+3610045,-1,Unknown,Unknown
+3610045,-1,Unknown,Unknown
+3610045,-1,Unknown,Unknown
+3610045,-1,Unknown,Unknown
+3610045,-1,Unknown,Unknown
 3610045,50,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-3610045,Unknown,Unknown,Unknown
+3610045,-1,Unknown,Unknown
 3610045,36,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 3610045,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3610045,30,Male,"Continuous miner operator, Coal mole operator"
 3610045,31,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
-3610045,Unknown,Unknown,Unknown
+3610045,-1,Unknown,Unknown
 3610089,36,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 3610089,31,Male,Master electrician
-3610089,Unknown,Unknown,Unknown
+3610089,-1,Unknown,Unknown
 3610089,35,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 3610089,39,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 3610089,30,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
@@ -3554,7 +3554,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3800007,53,Male,"Miner, Prospector, NEC"
 3800007,58,Male,"Utility man, Shift tech, Service/Dump truck operator"
 3800007,54,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-3800007,Unknown,Unknown,Unknown
+3800007,-1,Unknown,Unknown
 3800013,19,Male,Trespasser
 3800013,61,Male,"Outside foreman, Leadman"
 3800014,57,Male,"Ledgeman/hand, Quarry man"
@@ -3576,14 +3576,14 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3800258,27,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
 3800305,52,Female,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 3800305,24,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-3800305,Unknown,Unknown,Unknown
+3800305,-1,Unknown,Unknown
 3800305,39,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3800305,55,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 3800305,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3800600,39,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 3800600,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3800600,51,Female,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-3800600,Unknown,Unknown,Unknown
+3800600,-1,Unknown,Unknown
 3800600,60,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 3800600,42,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 3800704,44,Male,"Master mechanic, Foreman, Supervisor"
@@ -3616,7 +3616,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 3901282,42,Male,"Greaser, Grease man, Oiler, Lube man, Dragline oiler"
 3901303,51,Male,"Washer operator, Sizing operator"
 3901319,51,Male,"Master mechanic, Foreman, Supervisor"
-3901351,Unknown,Unknown,Unknown
+3901351,-1,Unknown,Unknown
 3901400,55,Male,"Mine manager, Mine foreman, Mine owner"
 3901477,47,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 3901487,30,Male,Scalper-screen operator
@@ -3676,8 +3676,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4100013,30,Male,"Electrician, Lineman"
 4100025,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4100025,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4100026,Unknown,Unknown,Unknown
-4100026,Unknown,Unknown,Unknown
+4100026,-1,Unknown,Unknown
+4100026,-1,Unknown,Unknown
 4100046,25,Male,"Crusher attendant/operator, Pan feeder operator/worker"
 4100047,65,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4100055,49,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
@@ -3717,7 +3717,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4100083,27,Male,"Outside foreman, Leadman"
 4100083,64,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4100083,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4100083,Unknown,Unknown,Unknown
+4100083,-1,Unknown,Unknown
 4100083,43,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4100120,26,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4100120,26,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
@@ -3768,7 +3768,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4102478,73,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4102478,37,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4102478,24,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-4102478,Unknown,Unknown,Unknown
+4102478,-1,Unknown,Unknown
 4102781,57,Male,"Master mechanic, Foreman, Supervisor"
 4102781,47,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4102781,35,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
@@ -3798,7 +3798,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4103101,58,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4103101,37,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4103154,34,Male,Welder (shop)
-4103164,Unknown,Unknown,Unknown
+4103164,-1,Unknown,Unknown
 4103190,26,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4103190,33,Male,"Silo operator, Bin puller, Truck loader"
 4103307,38,Male,Unknown
@@ -3806,7 +3806,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4103307,36,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4103307,54,Male,"Assayer, Geologist, Metallurgist, Engineer, Engineer management"
 4103307,43,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4103307,Unknown,Unknown,Unknown
+4103307,-1,Unknown,Unknown
 4103307,24,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4103360,65,Male,"Utility man, Shift tech, Service/Dump truck operator"
 4103401,29,Male,"Stone finishing and sizing personnel, Stone/Rock cut/Polish/Saw operator, Splitter, Cutter, Trimmer"
@@ -3833,8 +3833,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4104319,31,Male,"Ledgeman/hand, Quarry man"
 4104363,24,Male,"Assistant mine foreman, Assistant mine manager"
 4104393,29,Male,"Miner, Prospector, NEC"
-4104393,Unknown,Unknown,Unknown
-4104393,Unknown,Unknown,Unknown
+4104393,-1,Unknown,Unknown
+4104393,-1,Unknown,Unknown
 4104393,54,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4104420,29,Male,"Dry screening plant operator, Screen house operator"
 4104420,49,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
@@ -3912,7 +3912,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4105365,19,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4105367,39,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4105367,23,Male,Water truck operator
-4105373,Unknown,Unknown,Unknown
+4105373,-1,Unknown,Unknown
 4105380,30,Female,"Weighman, Scale person"
 4105380,28,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4105387,60,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
@@ -3939,13 +3939,13 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4200013,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4200013,46,Male,"Electrician, Lineman"
 4200013,29,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-4200079,Unknown,Unknown,Unknown
+4200079,-1,Unknown,Unknown
 4200079,35,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
-4200079,Unknown,Unknown,Unknown
+4200079,-1,Unknown,Unknown
 4200079,20,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4200079,Unknown,Unknown,Unknown
-4200079,Unknown,Unknown,Unknown
-4200079,Unknown,Unknown,Unknown
+4200079,-1,Unknown,Unknown
+4200079,-1,Unknown,Unknown
+4200079,-1,Unknown,Unknown
 4200089,30,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4200089,33,Male,"Miner, NEC"
 4200089,19,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
@@ -3985,23 +3985,23 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4201566,23,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4201566,51,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4201566,28,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4201566,Unknown,Unknown,Unknown
-4201566,Unknown,Unknown,Unknown
+4201566,-1,Unknown,Unknown
+4201566,-1,Unknown,Unknown
 4201566,38,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4201566,29,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4201566,31,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4201566,Unknown,Unknown,Unknown
+4201566,-1,Unknown,Unknown
 4201566,43,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 4201566,56,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-4201566,Unknown,Unknown,Unknown
+4201566,-1,Unknown,Unknown
 4201566,39,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4201566,29,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4201566,60,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4201566,Unknown,Unknown,Unknown
+4201566,-1,Unknown,Unknown
 4201566,29,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-4201566,Unknown,Unknown,Unknown
+4201566,-1,Unknown,Unknown
 4201566,49,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
-4201566,Unknown,Unknown,Unknown
+4201566,-1,Unknown,Unknown
 4201647,38,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4201665,40,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4201665,67,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
@@ -4020,7 +4020,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4201996,38,Male,"Electrician, Lineman"
 4202042,59,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 4202052,51,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-4202093,Unknown,Unknown,Unknown
+4202093,-1,Unknown,Unknown
 4202099,20,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 4202107,22,Female,Lab Technician
 4202121,31,Male,"Stone finishing and sizing personnel, Stone/Rock cut/Polish/Saw operator, Splitter, Cutter, Trimmer"
@@ -4103,7 +4103,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4400068,60,Male,Drill operator
 4400068,56,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4400068,69,Female,"Clerk, Timekeeper, Office worker, Director of sales"
-4400068,Unknown,Unknown,Unknown
+4400068,-1,Unknown,Unknown
 4400082,41,Male,"Miner, NEC"
 4400082,58,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4400082,29,Male,"Dryer operator, Kiln operator, Dry plant operator, Fluid operator, Bed dryer operator"
@@ -4156,8 +4156,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4404856,41,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4404856,29,Male,"Electrician, Lineman"
 4404856,61,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-4404856,Unknown,Unknown,Unknown
-4404856,Unknown,Unknown,Unknown
+4404856,-1,Unknown,Unknown
+4404856,-1,Unknown,Unknown
 4404951,36,Male,Drill operator
 4404982,21,Male,Welder (non-shop)
 4404982,21,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -4168,7 +4168,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4405311,65,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 4405311,48,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4405311,65,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
-4405311,Unknown,Unknown,Unknown
+4405311,-1,Unknown,Unknown
 4405407,52,Male,"Assistant mine foreman, Assistant mine manager"
 4405996,47,Male,Forklift operator
 4405996,43,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -4186,9 +4186,9 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4407086,34,Male,"Miner, Prospector, NEC"
 4407086,28,Male,"Miner, Prospector, NEC"
 4407086,22,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-4407087,Unknown,Unknown,Unknown
-4407133,Unknown,Unknown,Unknown
-4407137,Unknown,Unknown,Unknown
+4407087,-1,Unknown,Unknown
+4407133,-1,Unknown,Unknown
+4407137,-1,Unknown,Unknown
 4407137,56,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4407137,43,Male,"Continuous miner operator, Coal mole operator"
 4407150,28,Male,"Scoop tram operator, Load/Haul/Dump operator"
@@ -4203,14 +4203,14 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4407199,20,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4407199,52,Male,"Utility man, Shift tech, Service/Dump truck operator"
 4407199,53,Male,"Utility man, Shift tech, Service/Dump truck operator"
-4407199,Unknown,Unknown,Unknown
+4407199,-1,Unknown,Unknown
 4407199,46,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4407199,46,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4407199,40,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4407220,50,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
 4407220,31,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4407220,27,Male,"Utility man, Errand boy, Service truck operator"
-4407220,Unknown,Unknown,Unknown
+4407220,-1,Unknown,Unknown
 4407220,58,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4407223,48,Male,"Utility man, Errand boy, Service truck operator"
 4407223,56,Male,"Scoop tram operator, Load/Haul/Dump operator"
@@ -4220,43 +4220,43 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4407223,60,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4407223,33,Male,"Utility man, Errand boy, Service truck operator"
 4407223,35,Male,"Scoop tram operator, Load/Haul/Dump operator"
-4407223,Unknown,Unknown,Unknown
+4407223,-1,Unknown,Unknown
 4407223,47,Male,"Scoop tram operator, Load/Haul/Dump operator"
 4407223,29,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4407223,57,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 4407223,38,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4407223,30,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4407223,32,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4407223,Unknown,Unknown,Unknown
+4407223,-1,Unknown,Unknown
 4407223,52,Male,"Utility man, Errand boy, Service truck operator"
 4407223,49,Male,"Continuous miner operator, Coal mole operator"
 4407223,21,Male,"Utility man, Errand boy, Service truck operator"
-4407260,Unknown,Unknown,Unknown
+4407260,-1,Unknown,Unknown
 4407268,34,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4407280,61,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4407280,45,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4407308,Unknown,Unknown,Unknown
+4407308,-1,Unknown,Unknown
 4407308,36,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4407308,65,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4407308,60,Male,"Electrician, Lineman"
 4407308,66,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4407308,42,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4407308,31,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4407308,Unknown,Unknown,Unknown
+4407308,-1,Unknown,Unknown
 4407308,32,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
-4407308,Unknown,Unknown,Unknown
+4407308,-1,Unknown,Unknown
 4407308,44,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4407308,26,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4407308,Unknown,Unknown,Unknown
-4407318,Unknown,Unknown,Unknown
-4407318,Unknown,Unknown,Unknown
+4407308,-1,Unknown,Unknown
+4407318,-1,Unknown,Unknown
+4407318,-1,Unknown,Unknown
 4407318,27,Male,"Electrician, Lineman"
 4407366,50,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
 4407366,35,Male,"Master mechanic, Foreman, Supervisor"
 4407366,34,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4407366,27,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4407366,43,Male,"Scoop tram operator, Load/Haul/Dump operator"
-4407366,Unknown,Unknown,Unknown
+4407366,-1,Unknown,Unknown
 4407366,40,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4407392,23,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4407394,52,Male,Rotary bucket excavator operator
@@ -4300,7 +4300,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4600007,34,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4600007,49,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 4600007,41,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-4600007,Unknown,Unknown,Unknown
+4600007,-1,Unknown,Unknown
 4600007,55,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4600007,29,Male,Unknown
 4600015,27,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -4319,13 +4319,13 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601318,43,Male,"Trackman, Track worker, Track gang"
 4601318,31,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 4601318,38,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-4601318,Unknown,Unknown,Unknown
+4601318,-1,Unknown,Unknown
 4601318,43,Male,"Crane operator, Mobile equipment operator (MEO), Dragline operator, Dropball operator, Rigger"
 4601318,56,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601318,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601318,27,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 4601318,31,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4601318,Unknown,Unknown,Unknown
+4601318,-1,Unknown,Unknown
 4601318,45,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4601318,28,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601318,45,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
@@ -4338,10 +4338,10 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601433,64,Male,"Electrician, Lineman"
 4601433,42,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,42,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4601433,Unknown,Unknown,Unknown
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,48,Female,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,51,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,43,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4601433,28,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -4359,25 +4359,25 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601433,46,Male,Drill operator
 4601433,25,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601433,36,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,27,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,35,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601433,22,Male,"Utility man, Errand boy, Service truck operator"
 4601433,40,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601433,61,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,49,Female,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,64,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601433,29,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,62,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,50,Male,Rock duster
 4601433,59,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,53,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,53,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,27,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601433,52,Male,Safety director
 4601433,27,Male,"Utility man, Errand boy, Service truck operator"
@@ -4388,15 +4388,15 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601433,49,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,31,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601433,56,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,31,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4601433,52,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,59,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,48,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,29,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601433,27,Male,"Trackman, Track worker, Track gang"
-4601433,Unknown,Unknown,Unknown
+4601433,-1,Unknown,Unknown
 4601433,20,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601433,28,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601433,65,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
@@ -4423,14 +4423,14 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601436,63,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601436,58,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4601436,29,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4601436,Unknown,Unknown,Unknown
-4601436,Unknown,Unknown,Unknown
-4601436,Unknown,Unknown,Unknown
+4601436,-1,Unknown,Unknown
+4601436,-1,Unknown,Unknown
+4601436,-1,Unknown,Unknown
 4601436,28,Male,Brattice man/worker
 4601436,51,Male,"Electrician, Lineman"
 4601436,29,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4601436,35,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
-4601436,Unknown,Unknown,Unknown
+4601436,-1,Unknown,Unknown
 4601436,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601436,63,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601436,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -4447,7 +4447,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601436,40,Male,Timberman
 4601436,51,Female,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601436,35,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
-4601436,Unknown,Unknown,Unknown
+4601436,-1,Unknown,Unknown
 4601436,53,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 4601437,39,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 4601437,40,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -4468,7 +4468,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601437,22,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,29,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601437,51,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4601437,Unknown,Unknown,Unknown
+4601437,-1,Unknown,Unknown
 4601437,50,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 4601437,45,Male,Headgate operator
 4601437,50,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -4487,31 +4487,31 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601437,38,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,52,Female,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,53,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-4601437,Unknown,Unknown,Unknown
-4601437,Unknown,Unknown,Unknown
+4601437,-1,Unknown,Unknown
+4601437,-1,Unknown,Unknown
 4601437,47,Male,"Master mechanic, Foreman, Supervisor"
 4601437,22,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,31,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 4601437,40,Female,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,54,Male,"Utility man, Errand boy, Service truck operator"
 4601437,58,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4601437,Unknown,Unknown,Unknown
+4601437,-1,Unknown,Unknown
 4601437,28,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601437,61,Male,"Assayer, Geologist, Metallurgist, Engineer, Engineer management"
 4601437,43,Male,"Trackman, Track worker, Track gang"
 4601437,35,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4601437,Unknown,Unknown,Unknown
-4601437,Unknown,Unknown,Unknown
+4601437,-1,Unknown,Unknown
+4601437,-1,Unknown,Unknown
 4601437,26,Male,"Continuous miner operator, Coal mole operator"
 4601437,29,Male,"Continuous miner operator, Coal mole operator"
-4601437,Unknown,Unknown,Unknown
+4601437,-1,Unknown,Unknown
 4601437,47,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 4601437,49,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,35,Male,"LW Propman, Propman helper, Move crew if LW, Move-up man, Jacksetter, Advanceman LW helper"
 4601437,28,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4601437,34,Male,"Miner, NEC"
 4601437,42,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
-4601437,Unknown,Unknown,Unknown
+4601437,-1,Unknown,Unknown
 4601437,31,Male,"Mine manager, Mine foreman, Mine owner"
 4601437,50,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601437,46,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
@@ -4528,7 +4528,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601437,31,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,18,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,19,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-4601437,Unknown,Unknown,Unknown
+4601437,-1,Unknown,Unknown
 4601437,44,Female,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,51,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,35,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -4541,12 +4541,12 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601437,27,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4601437,27,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 4601456,50,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4601544,Unknown,Unknown,Unknown
+4601544,-1,Unknown,Unknown
 4601544,31,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4601544,43,Male,"Continuous miner operator, Coal mole operator"
 4601544,41,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
-4601968,Unknown,Unknown,Unknown
-4601968,Unknown,Unknown,Unknown
+4601968,-1,Unknown,Unknown
+4601968,-1,Unknown,Unknown
 4601968,31,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 4601968,53,Male,"LW Propman, Propman helper, Move crew if LW, Move-up man, Jacksetter, Advanceman LW helper"
 4601968,33,Male,"Utility man, Errand boy, Service truck operator"
@@ -4559,32 +4559,32 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4601968,28,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 4601968,34,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
 4601968,29,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
-4601968,Unknown,Unknown,Unknown
+4601968,-1,Unknown,Unknown
 4601968,39,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601968,36,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4601968,64,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4601968,32,Male,"Belt foreman, Maintenance foreman, Maintenance supervisor"
 4601968,39,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-4601968,Unknown,Unknown,Unknown
-4601968,Unknown,Unknown,Unknown
-4601968,Unknown,Unknown,Unknown
-4601968,Unknown,Unknown,Unknown
+4601968,-1,Unknown,Unknown
+4601968,-1,Unknown,Unknown
+4601968,-1,Unknown,Unknown
+4601968,-1,Unknown,Unknown
 4601968,49,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
-4601968,Unknown,Unknown,Unknown
+4601968,-1,Unknown,Unknown
 4601968,26,Male,"Belt cleaner, Picker"
-4601968,Unknown,Unknown,Unknown
+4601968,-1,Unknown,Unknown
 4601968,26,Male,Pumper
 4601968,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4601968,61,Male,"Utility man, Shift tech, Service/Dump truck operator"
-4601968,Unknown,Unknown,Unknown
+4601968,-1,Unknown,Unknown
 4601968,37,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
 4601968,22,Male,"Belt cleaner, Picker"
 4601968,40,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 4601968,31,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 4601968,37,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
-4601968,Unknown,Unknown,Unknown
-4601968,Unknown,Unknown,Unknown
-4601968,Unknown,Unknown,Unknown
+4601968,-1,Unknown,Unknown
+4601968,-1,Unknown,Unknown
+4601968,-1,Unknown,Unknown
 4601968,22,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4601968,37,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 4602140,22,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -4605,21 +4605,21 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4603769,30,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
 4604168,49,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4604168,63,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
-4604168,Unknown,Unknown,Unknown
+4604168,-1,Unknown,Unknown
 4604168,46,Male,"Electrician, Lineman"
 4604168,56,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4604168,28,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4604168,55,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4604168,44,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4604168,Unknown,Unknown,Unknown
-4604168,Unknown,Unknown,Unknown
-4604168,Unknown,Unknown,Unknown
+4604168,-1,Unknown,Unknown
+4604168,-1,Unknown,Unknown
+4604168,-1,Unknown,Unknown
 4604168,24,Male,"Scoop tram operator, Load/Haul/Dump operator"
-4604168,Unknown,Unknown,Unknown
+4604168,-1,Unknown,Unknown
 4604236,54,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-4604236,Unknown,Unknown,Unknown
+4604236,-1,Unknown,Unknown
 4604236,50,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
-4604236,Unknown,Unknown,Unknown
+4604236,-1,Unknown,Unknown
 4604335,46,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4604343,58,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4604637,53,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -4632,7 +4632,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4605147,56,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 4605252,40,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4605252,28,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4605252,Unknown,Unknown,Unknown
+4605252,-1,Unknown,Unknown
 4605252,35,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4605437,60,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4605437,38,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
@@ -4646,7 +4646,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4605909,60,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4605992,55,Female,"Security guard, Watchman"
 4606188,57,Female,"Quality control technician, Laboratory technician, Laboratory assistant"
-4606263,Unknown,Unknown,Unknown
+4606263,-1,Unknown,Unknown
 4606263,23,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4606263,46,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4606263,28,Male,"Scoop tram operator, Load/Haul/Dump operator"
@@ -4657,11 +4657,11 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4606618,62,Male,"Supply man, Supply worker, Nipper"
 4606618,51,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4607178,59,Male,Drill operator
-4607788,Unknown,Unknown,Unknown
+4607788,-1,Unknown,Unknown
 4607938,49,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4607938,Unknown,Unknown,Unknown
+4607938,-1,Unknown,Unknown
 4607985,51,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-4608159,Unknown,Unknown,Unknown
+4608159,-1,Unknown,Unknown
 4608374,60,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4608374,45,Male,Machinist
 4608374,19,Male,"Miner, Prospector, NEC"
@@ -4679,33 +4679,33 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4608647,31,Male,Welder (shop)
 4608656,24,Male,"Utility man, Errand boy, Service truck operator"
 4608656,25,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
-4608656,Unknown,Unknown,Unknown
+4608656,-1,Unknown,Unknown
 4608656,22,Male,"Utility man, Errand boy, Service truck operator"
 4608656,25,Male,"Continuous miner operator, Coal mole operator"
-4608656,Unknown,Unknown,Unknown
+4608656,-1,Unknown,Unknown
 4608656,28,Male,"Continuous miner operator, Coal mole operator"
 4608656,43,Male,Safety director
-4608656,Unknown,Unknown,Unknown
-4608656,Unknown,Unknown,Unknown
+4608656,-1,Unknown,Unknown
+4608656,-1,Unknown,Unknown
 4608656,34,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
-4608656,Unknown,Unknown,Unknown
+4608656,-1,Unknown,Unknown
 4608656,24,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4608656,Unknown,Unknown,Unknown
-4608656,Unknown,Unknown,Unknown
-4608656,Unknown,Unknown,Unknown
+4608656,-1,Unknown,Unknown
+4608656,-1,Unknown,Unknown
+4608656,-1,Unknown,Unknown
 4608663,30,Male,"Master mechanic, Foreman, Supervisor"
 4608663,30,Male,"Blaster, Shooter, Shotfirer, Explosive worker, Powder gang/monkey"
 4608663,30,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4608663,49,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4608663,43,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4608663,Unknown,Unknown,Unknown
+4608663,-1,Unknown,Unknown
 4608663,37,Male,"Continuous miner operator, Coal mole operator"
-4608759,Unknown,Unknown,Unknown
+4608759,-1,Unknown,Unknown
 4608759,52,Male,"Security guard, Watchman"
 4608759,45,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4608759,35,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 4608759,66,Male,"Hoistman, Hoist operator"
-4608759,Unknown,Unknown,Unknown
+4608759,-1,Unknown,Unknown
 4608759,33,Male,"Continuous miner operator, Coal mole operator"
 4608777,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4608777,48,Male,"Steel worker, Iron metal worker, Iron worker"
@@ -4718,16 +4718,16 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4608787,46,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4608787,38,Male,"Electrician, Lineman"
 4608787,30,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4608787,Unknown,Unknown,Unknown
+4608787,-1,Unknown,Unknown
 4608787,32,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4608787,Unknown,Unknown,Unknown
+4608787,-1,Unknown,Unknown
 4608787,35,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4608801,39,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4608801,25,Male,"Electrician, Lineman"
 4608801,62,Male,"Electrician, Lineman"
 4608801,31,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4608801,Unknown,Unknown,Unknown
-4608801,Unknown,Unknown,Unknown
+4608801,-1,Unknown,Unknown
+4608801,-1,Unknown,Unknown
 4608801,65,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4608801,35,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4608801,51,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
@@ -4735,21 +4735,21 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4608802,32,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4608802,34,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4608802,51,Male,"Master mechanic, Foreman, Supervisor"
-4608808,Unknown,Unknown,Unknown
+4608808,-1,Unknown,Unknown
 4608808,28,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4608808,32,Male,"Scoop tram operator, Load/Haul/Dump operator"
 4608808,27,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4608837,64,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4608837,31,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4608862,30,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-4608862,Unknown,Unknown,Unknown
+4608862,-1,Unknown,Unknown
 4608864,61,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4608864,33,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 4608864,41,Male,"Wireman, Communications man"
 4608864,56,Male,"Supply man, Nipper"
 4608864,54,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
-4608864,Unknown,Unknown,Unknown
-4608864,Unknown,Unknown,Unknown
+4608864,-1,Unknown,Unknown
+4608864,-1,Unknown,Unknown
 4608864,30,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4608864,25,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4608864,39,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -4761,25 +4761,25 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4608864,29,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 4608864,47,Male,"Continuous miner operator, Coal mole operator"
 4608864,31,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-4608864,Unknown,Unknown,Unknown
+4608864,-1,Unknown,Unknown
 4608864,29,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-4608864,Unknown,Unknown,Unknown
+4608864,-1,Unknown,Unknown
 4608864,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4608878,Unknown,Unknown,Unknown
-4608878,Unknown,Unknown,Unknown
+4608878,-1,Unknown,Unknown
+4608878,-1,Unknown,Unknown
 4608878,28,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 4608878,58,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 4608878,33,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-4608878,Unknown,Unknown,Unknown
+4608878,-1,Unknown,Unknown
 4608878,43,Male,"Scoop tram operator, Load/Haul/Dump operator"
 4608878,48,Male,"Electrician, Lineman"
-4608878,Unknown,Unknown,Unknown
-4608878,Unknown,Unknown,Unknown
-4608878,Unknown,Unknown,Unknown
-4608878,Unknown,Unknown,Unknown
-4608878,Unknown,Unknown,Unknown
+4608878,-1,Unknown,Unknown
+4608878,-1,Unknown,Unknown
+4608878,-1,Unknown,Unknown
+4608878,-1,Unknown,Unknown
+4608878,-1,Unknown,Unknown
 4608878,35,Male,"Continuous miner operator, Coal mole operator"
-4608878,Unknown,Unknown,Unknown
+4608878,-1,Unknown,Unknown
 4608878,39,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4608930,48,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4608930,28,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -4787,16 +4787,16 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4608930,42,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4608932,38,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4608932,24,Male,"LW Propman, Propman helper, Move crew if LW, Move-up man, Jacksetter, Advanceman LW helper"
-4608932,Unknown,Unknown,Unknown
+4608932,-1,Unknown,Unknown
 4608932,51,Male,"Motorman, Motor person, Swamper, Switchman, Locomotive operator"
 4608984,59,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4608984,36,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4609028,19,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-4609028,Unknown,Unknown,Unknown
+4609028,-1,Unknown,Unknown
 4609028,20,Male,"LW Propman, Propman helper, Move crew if LW, Move-up man, Jacksetter, Advanceman LW helper"
-4609028,Unknown,Unknown,Unknown
-4609028,Unknown,Unknown,Unknown
-4609028,Unknown,Unknown,Unknown
+4609028,-1,Unknown,Unknown
+4609028,-1,Unknown,Unknown
+4609028,-1,Unknown,Unknown
 4609028,45,Male,"Electrician, Lineman"
 4609029,36,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609029,41,Male,"Continuous miner operator, Coal mole operator"
@@ -4809,7 +4809,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4609029,41,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
 4609029,47,Male,"Clerk, Timekeeper, Office worker, Director of sales"
 4609029,26,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-4609029,Unknown,Unknown,Unknown
+4609029,-1,Unknown,Unknown
 4609029,42,Male,"Continuous miner operator, Coal mole operator"
 4609029,48,Male,"Continuous miner operator, Coal mole operator"
 4609036,43,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
@@ -4837,8 +4837,8 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4609152,42,Male,Dispatcher
 4609152,54,Male,"Continuous miner operator, Coal mole operator"
 4609172,28,Male,"Scoop car/Scooptram operator, Load/Haul/Dump (LHD) operator, Teletram operator"
-4609172,Unknown,Unknown,Unknown
-4609172,Unknown,Unknown,Unknown
+4609172,-1,Unknown,Unknown
+4609172,-1,Unknown,Unknown
 4609191,45,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4609192,23,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4609192,30,Male,"Longwall operator, Chock operator, Shear operator, Plow operator"
@@ -4866,16 +4866,16 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4609212,39,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4609217,41,Male,"Continuous miner operator, Coal mole operator"
 4609217,41,Male,"Continuous miner operator, Coal mole operator"
-4609217,Unknown,Unknown,Unknown
+4609217,-1,Unknown,Unknown
 4609217,22,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-4609217,Unknown,Unknown,Unknown
+4609217,-1,Unknown,Unknown
 4609217,44,Male,"Electrician, Lineman"
-4609217,Unknown,Unknown,Unknown
-4609217,Unknown,Unknown,Unknown
+4609217,-1,Unknown,Unknown
+4609217,-1,Unknown,Unknown
 4609217,52,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4609221,49,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4609221,46,Male,"Supply man, Supply worker, Nipper"
-4609221,Unknown,Unknown,Unknown
+4609221,-1,Unknown,Unknown
 4609221,27,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4609221,27,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609222,47,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
@@ -4893,7 +4893,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4609258,29,Male,"Continuous miner operator, Coal mole operator"
 4609258,28,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4609258,43,Male,"Electrician, Lineman"
-4609258,Unknown,Unknown,Unknown
+4609258,-1,Unknown,Unknown
 4609261,49,Male,"Electrician, Lineman"
 4609261,31,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
 4609261,39,Male,"Examiner, Fire boss, Pre-shift examiner, Mine examiner"
@@ -4938,15 +4938,15 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4609377,55,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4609377,63,Male,"Crane operator, Mobile equipment operator (MEO), Dragline operator, Dropball operator, Rigger"
 4609395,41,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
-4609427,Unknown,Unknown,Unknown
+4609427,-1,Unknown,Unknown
 4609427,19,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4609427,36,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4609427,Unknown,Unknown,Unknown
+4609427,-1,Unknown,Unknown
 4609427,33,Male,"Shuttle car operator, Mantrip operator, Ramcar operator, Rail runner, Buggy operator"
 4609447,23,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4609447,39,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4609447,24,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
-4609447,Unknown,Unknown,Unknown
+4609447,-1,Unknown,Unknown
 4609447,46,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4609447,21,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609455,22,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -4958,40 +4958,40 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4609475,49,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4609475,22,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4609495,38,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
-4609495,Unknown,Unknown,Unknown
-4609495,Unknown,Unknown,Unknown
-4609495,Unknown,Unknown,Unknown
-4609495,Unknown,Unknown,Unknown
-4609495,Unknown,Unknown,Unknown
+4609495,-1,Unknown,Unknown
+4609495,-1,Unknown,Unknown
+4609495,-1,Unknown,Unknown
+4609495,-1,Unknown,Unknown
+4609495,-1,Unknown,Unknown
 4609495,43,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4609495,Unknown,Unknown,Unknown
+4609495,-1,Unknown,Unknown
 4609496,33,Male,"Laborer, Bull gang, Faceman, Parts runner, Roustabout, Roof trimmer/scaler"
 4609496,26,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609496,32,Male,"Electrician, Lineman"
 4609507,23,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609522,46,Male,"Draftsman, Surveyor/Transit work supervisor"
 4609522,21,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4609522,Unknown,Unknown,Unknown
+4609522,-1,Unknown,Unknown
 4609522,35,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609522,36,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609522,69,Male,"Electrician, Lineman"
 4609533,50,Male,"Miner, NEC"
 4609533,26,Male,"Beltman, Conveyor man and belt worker, Mobile bridge carrierman, Feeder operator, Conveyor rider"
-4609533,Unknown,Unknown,Unknown
+4609533,-1,Unknown,Unknown
 4609533,28,Male,"Continuous miner operator, Coal mole operator"
-4609533,Unknown,Unknown,Unknown
+4609533,-1,Unknown,Unknown
 4609533,31,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609537,40,Male,"Groundman, Yardman"
 4609537,39,Male,"Transit man, Surveyor/Transit worker"
 4609541,32,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609541,32,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4609541,Unknown,Unknown,Unknown
+4609541,-1,Unknown,Unknown
 4609541,33,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4609541,30,Male,"Continuous miner operator, Coal mole operator"
 4609546,47,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 4609546,19,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4609550,34,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
-4609550,Unknown,Unknown,Unknown
+4609550,-1,Unknown,Unknown
 4609550,29,Male,"Section foreman, Bullgang foreman, Labor foreman, Leadman, Shift boss"
 4609563,27,Male,"Scoop tram operator, Load/Haul/Dump operator"
 4609563,44,Male,"Groundman, Yardman"
@@ -5016,14 +5016,14 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4700215,25,Male,"Crusher attendant/operator, Pan feeder operator/worker"
 4700235,52,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4700398,51,Male,"Stone finishing and sizing personnel, Stone/Rock cut/Polish/Saw operator, Splitter, Cutter, Trimmer"
-4700587,Unknown,Unknown,Unknown
-4700587,Unknown,Unknown,Unknown
-4700587,Unknown,Unknown,Unknown
+4700587,-1,Unknown,Unknown
+4700587,-1,Unknown,Unknown
+4700587,-1,Unknown,Unknown
 4700587,44,Male,Hydrate plant operator
 4700587,45,Male,Unknown
-4700587,Unknown,Unknown,Unknown
+4700587,-1,Unknown,Unknown
 4700587,37,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-4700588,Unknown,Male,Trespasser
+4700588,-1,Male,Trespasser
 4700588,45,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4700868,46,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4701184,58,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -5085,10 +5085,10 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4800152,29,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4800152,28,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4800152,55,Male,"Steel worker, Iron metal worker, Iron worker"
-4800152,Unknown,Unknown,Unknown
+4800152,-1,Unknown,Unknown
 4800152,46,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4800152,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4800152,Unknown,Unknown,Unknown
+4800152,-1,Unknown,Unknown
 4800152,33,Male,"Electrician, Lineman"
 4800152,40,Male,"Bull gang foreman, Labor foreman, Leadman, Section foreman, Shift boss"
 4800152,63,Female,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
@@ -5097,35 +5097,35 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4800152,32,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4800152,27,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4800152,30,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
-4800154,Unknown,Unknown,Unknown
+4800154,-1,Unknown,Unknown
 4800154,31,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4800154,38,Male,"Miner, Prospector, NEC"
 4800154,36,Male,Refinery worker
-4800154,Unknown,Unknown,Unknown
-4800155,Unknown,Unknown,Unknown
+4800154,-1,Unknown,Unknown
+4800155,-1,Unknown,Unknown
 4800155,20,Male,Welder (shop)
-4800155,Unknown,Unknown,Unknown
+4800155,-1,Unknown,Unknown
 4800155,28,Male,"Roof bolter, Rock bolter, Pinner, Mobile roof support operator (MRS)"
 4800155,44,Male,"Mine manager, Mine foreman, Mine owner"
 4800155,63,Male,"Silo operator, Bin puller, Truck loader"
-4800155,Unknown,Unknown,Unknown
+4800155,-1,Unknown,Unknown
 4800155,60,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4800155,Unknown,Unknown,Unknown
+4800155,-1,Unknown,Unknown
 4800155,42,Male,"Utility man, Errand boy, Service truck operator"
-4800155,Unknown,Unknown,Unknown
-4800155,Unknown,Unknown,Unknown
+4800155,-1,Unknown,Unknown
+4800155,-1,Unknown,Unknown
 4800155,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4800155,49,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4800155,Unknown,Unknown,Unknown
-4800155,Unknown,Unknown,Unknown
-4800155,Unknown,Unknown,Unknown
+4800155,-1,Unknown,Unknown
+4800155,-1,Unknown,Unknown
+4800155,-1,Unknown,Unknown
 4800155,45,Male,Master electrician
 4800155,37,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-4800155,Unknown,Unknown,Unknown
+4800155,-1,Unknown,Unknown
 4800155,39,Male,"Electrician, Lineman"
 4800155,40,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4800155,Unknown,Unknown,Unknown
-4800155,Unknown,Unknown,Unknown
+4800155,-1,Unknown,Unknown
+4800155,-1,Unknown,Unknown
 4800245,62,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4800602,45,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4800603,57,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
@@ -5140,7 +5140,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4800732,59,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4800732,64,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4800732,48,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4800732,Unknown,Unknown,Unknown
+4800732,-1,Unknown,Unknown
 4800732,59,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4800732,44,Female,"Miner, Prospector, NEC"
 4800888,45,Male,Drill operator
@@ -5152,24 +5152,24 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4800977,41,Male,"Master mechanic, Foreman, Supervisor"
 4800977,39,Male,"Front-end loader, Scraper-loader operator, Pan operator, Payloader, Scraper rig operator"
 4800977,31,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4800977,Unknown,Unknown,Unknown
+4800977,-1,Unknown,Unknown
 4800977,55,Female,"Quality control technician, Laboratory technician, Laboratory assistant"
 4800977,41,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
 4800992,52,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4800992,41,Male,"Miner, Prospector, NEC"
-4800992,Unknown,Unknown,Unknown
-4800993,Unknown,Unknown,Unknown
-4800993,Unknown,Unknown,Unknown
+4800992,-1,Unknown,Unknown
+4800993,-1,Unknown,Unknown
+4800993,-1,Unknown,Unknown
 4801019,61,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 4801019,58,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-4801034,Unknown,Unknown,Unknown
+4801034,-1,Unknown,Unknown
 4801034,44,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4801034,Unknown,Unknown,Unknown
-4801034,Unknown,Unknown,Unknown
-4801034,Unknown,Unknown,Unknown
-4801034,Unknown,Unknown,Unknown
-4801034,Unknown,Unknown,Unknown
-4801034,Unknown,Unknown,Unknown
+4801034,-1,Unknown,Unknown
+4801034,-1,Unknown,Unknown
+4801034,-1,Unknown,Unknown
+4801034,-1,Unknown,Unknown
+4801034,-1,Unknown,Unknown
+4801034,-1,Unknown,Unknown
 4801034,35,Female,"Quality control technician, Laboratory technician, Laboratory assistant"
 4801034,47,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801042,60,Male,"Dry screening plant operator, Screen house operator"
@@ -5191,11 +5191,11 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4801295,45,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801295,25,Male,"Utility man, Errand boy, Service truck operator"
 4801295,59,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
-4801295,Unknown,Unknown,Unknown
-4801295,Unknown,Unknown,Unknown
-4801337,Unknown,Unknown,Unknown
+4801295,-1,Unknown,Unknown
+4801295,-1,Unknown,Unknown
+4801337,-1,Unknown,Unknown
 4801337,58,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
-4801337,Unknown,Unknown,Unknown
+4801337,-1,Unknown,Unknown
 4801353,37,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801353,55,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4801353,66,Female,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
@@ -5205,16 +5205,16 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4801353,51,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801353,37,Female,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4801353,36,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4801353,Unknown,Unknown,Unknown
+4801353,-1,Unknown,Unknown
 4801353,59,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801353,32,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801353,33,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801383,20,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801393,42,Male,"Crusher attendant/operator, Pan feeder operator/worker"
-4801405,Unknown,Unknown,Unknown
+4801405,-1,Unknown,Unknown
 4801429,57,Male,"Laborer, Blacksmith, Bull gang, Parts runner, Roustabout, Pick-up man, Pitman"
 4801429,24,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
-4801429,Unknown,Unknown,Unknown
+4801429,-1,Unknown,Unknown
 4801429,34,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801513,31,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 4801539,52,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
@@ -5233,12 +5233,12 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 4801646,50,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
 4801768,56,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 4801768,27,Female,"Miner, Prospector, NEC"
-4801774,Unknown,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
+4801774,-1,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 4801818,33,Male,"Bulldozer operator, Universal operator, Heavy equipment operator, Operating engineer"
 5000030,48,Male,"Utility man, Shift tech, Service/Dump truck operator"
 5000030,59,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 5001196,40,Male,"Electrician, Lineman"
-5001267,Unknown,Unknown,Unknown
+5001267,-1,Unknown,Unknown
 5001267,45,Male,"Miner, NEC"
 5001267,54,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 5001267,61,Male,"Laborer, Bull gang, Parts runner, Roustabout, Roof trimmer/scaler"
@@ -5265,9 +5265,9 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 5001545,63,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 5001545,45,Male,"Haul/Off road/Coal/Ore/Pit/Quarry/Rock/Rubber tire truck driver, Transportation truck driver"
 5001545,36,Male,Unknown
-5001616,Unknown,Unknown,Unknown
+5001616,-1,Unknown,Unknown
 5001616,21,Male,"Electrician, Lineman"
-5001616,Unknown,Unknown,Unknown
+5001616,-1,Unknown,Unknown
 5001616,56,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 5001616,36,Male,Drill operator
 5001616,34,Male,"Quality control technician, Laboratory technician, Laboratory assistant"
@@ -5281,7 +5281,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 5001642,49,Male,"Miner, Prospector, NEC"
 5001642,57,Male,"Electrician, Lineman"
 5001642,25,Male,"Miner, Prospector, NEC"
-5001642,Unknown,Unknown,Unknown
+5001642,-1,Unknown,Unknown
 5001642,56,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 5001642,21,Male,"Warehouseman, Bagger, Palletizer/Stacker, Storekeeper, Packager, Fabricator, Cleaning plant operator"
 5001642,49,Male,Driller operator
@@ -5289,7 +5289,7 @@ mine_id,injured_person_age,injured_person_gender,injured_person_occupation
 5001642,53,Male,"Miner, NEC"
 5001642,27,Male,"Maintenance man, Mechanic, Repair/Serviceman, Boilermaker, Fueler, Tire tech, Field service tech"
 5001642,36,Male,"Driller, Highwall operator, Highwall drill operator"
-5001642,Unknown,Unknown,Unknown
+5001642,-1,Unknown,Unknown
 5001642,46,Male,"Prep plant foreman, Supervisor, Mill plant supervisor, Kiln supervisor"
 5001642,43,Male,"Miner, Prospector, NEC"
 5001642,47,Male,Unknown
