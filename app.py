@@ -14,7 +14,8 @@ from DB_keys import db_key
 #################################################
 
 # Create the engine to connect to local server
-engine = (create_engine(f'postgresql://postgres:' +db_key+f'@localhost:5432/Project_2'))
+engine = (create_engine(f'postgresql://postgres:' +
+          db_key+f'@localhost:5432/Project_2'))
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -41,6 +42,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def welcome():
+    # return render_template("index.html")
     """List all available api routes."""
     return (
         f"Available Routes:<br/>"
@@ -59,7 +61,8 @@ def names():
     """Return a list of all incident details"""
 
     # Query all incident details
-    results = session.query(incident_details.mine_id, incident_details.incident_activity, incident_details.incident_category, incident_details.incident_day, incident_details.incident_month, incident_details.incident_type, incident_details.incident_year).all()
+    results = session.query(incident_details.mine_id, incident_details.incident_activity, incident_details.incident_category,
+                            incident_details.incident_day, incident_details.incident_month, incident_details.incident_type, incident_details.incident_year).all()
 
     session.close()
 
@@ -82,6 +85,7 @@ def names():
 
     return jsonify(incident_test)
 
+
 @app.route("/api/v1.0/injury_details")
 def names2():
     # Create our session (link) from Python to the DB
@@ -90,7 +94,8 @@ def names2():
     """Return a list of all injury details"""
 
     # Query all injury details
-    results = session.query(injury_details.mine_id, injury_details.injury_body_part, injury_details.injury_nature, injury_details.injury_classification, injury_details.injury_days_lost).all()
+    results = session.query(injury_details.mine_id, injury_details.injury_body_part, injury_details.injury_nature,
+                            injury_details.injury_classification, injury_details.injury_days_lost).all()
 
     session.close()
 
@@ -111,6 +116,7 @@ def names2():
 
     return jsonify(injury_details_test)
 
+
 @app.route("/api/v1.0/company_details")
 def names3():
     # Create our session (link) from Python to the DB
@@ -119,7 +125,8 @@ def names3():
     """Return a list of all company details"""
 
     # Query all company details
-    results = session.query(company_details.mine_id, company_details.company_mine_type, company_details.company_name, company_details.company_address, company_details.company_city, company_details.company_injury_count, company_details.company_underground_surface).all()
+    results = session.query(company_details.mine_id, company_details.company_mine_type, company_details.company_name, company_details.company_address,
+                            company_details.company_city, company_details.company_injury_count, company_details.company_underground_surface).all()
 
     session.close()
 
@@ -142,5 +149,6 @@ def names3():
 
     return jsonify(company_details_test)
 
+
 if __name__ == '__main__':
-   app.run()
+    app.run()
