@@ -43,11 +43,16 @@ init();
 
 // Chart.js Details
 
-function BuildPlots() {
-    // const labels = months({ count: 7 });
-    var ctx = document.getElementById("myChart").getContext("2d");
-    console.log("hi", ctx);
-    var myChart = new Chart(ctx, {
+function BuildPlots(id) {
+    d3.json("/api/v1.0/incident_details").then(data => {
+        console.log(data);
+        //var data1 = ;
+        var label1 = data[0].map(function(index){
+            return index.incident_catergory;
+        }); 
+        console.log(label1);
+        var ctx = document.getElementById("myChart").getContext("2d");
+        var myChart = new Chart(ctx, {
         type: "bar",
         data: {
             labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
@@ -88,6 +93,7 @@ function BuildPlots() {
         }
     });
 }
+)};
 
 
 function optionChanged(id) {
