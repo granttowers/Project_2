@@ -35,10 +35,7 @@ function DemographicInfo(id) {
 }
 init();
 
-// Building Plots
-// function BuildPlots(id){
-//     d3.json("/api/v1.0/incident_details").then(data => {
-//         console.log(data);
+
 
 
 // Chart.js Details
