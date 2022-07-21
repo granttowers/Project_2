@@ -1,14 +1,3 @@
-// // Create funtion to import data and create dropdown listing of all names
-// function init() {
-//     d3.json("/api/v1.0/injury_details").then(
-//         function (data) {
-//             var injury_body_part = data.map(elem => elem.injury_body_part);
-//             console.log(injury_body_part);
-//         });
-// };
-
-// init();
-
 function init() {
     // Select the frop down menu from the html file
     var dropDownMenu = d3.select("#selDataset")
@@ -35,73 +24,71 @@ function DemographicInfo(id) {
 }
 init();
 
-
-
-
 // Chart.js Details
 
 function BuildPlots(id) {
     d3.json("/api/v1.0/incident_details").then(data => {
         console.log(data);
-        //var data1 = 
-        //var label1 = data[0].incident_category;
+        var labellist = {};
         var graphInfo = data;
-        graphInfo = graphInfo.filter(row => row.mine_id == id)
-
-        var labellist = []
-        data.forEach(i => {
-        if (labellist.includes(i.incident_category))
-            {console.log()}
-        else (labellist.push(i.incident_category))
-        })
-        console.log(labellist)
+        graphInfo = graphInfo.filter(row => row.mine_id == id);
+        console.log(graphInfo);
+        graphInfo.forEach(i => {
+            if (i.incident_category in labellist) { labellist[i.incident_category] += 1; }
+            else { labellist[i.incident_category] = 1; }
+        });
+        console.log(labellist);
 
         var ctx = document.getElementById("myChart").getContext("2d");
         var myChart = new Chart(ctx, {
-        type: "bar",
-        data: {
-            labels: labellist,
-            datasets: [
-                {
-                    label: "# of Votes",
-                    data: [12, 19, 3, 5, 2, 3],
-                    backgroundColor: [
-                        "rgba(255, 99, 132, 0.2)",
-                        "rgba(54, 162, 235, 0.2)",
-                        "rgba(255, 206, 86, 0.2)",
-                        "rgba(75, 192, 192, 0.2)",
-                        "rgba(153, 102, 255, 0.2)",
-                        "rgba(255, 159, 64, 0.2)"
-                    ],
-                    borderColor: [
-                        "rgba(255,99,132,1)",
-                        "rgba(54, 162, 235, 1)",
-                        "rgba(255, 206, 86, 1)",
-                        "rgba(75, 192, 192, 1)",
-                        "rgba(153, 102, 255, 1)",
-                        "rgba(255, 159, 64, 1)"
-                    ],
-                    borderWidth: 1
-                }
-            ]
-        },
-        options: {
-            scales: {
-                yAxes: [
+            type: "bar",
+            data: {
+                labels: Object.keys(labellist),
+                datasets: [
                     {
-                        ticks: {
-                            beginAtZero: true
-                        }
+                        label: "# of Votes",
+                        data: Object.values(labellist),
+                        backgroundColor: [
+                            "rgba(255, 99, 132, 0.2)",
+                            "rgba(54, 162, 235, 0.2)",
+                            "rgba(255, 206, 86, 0.2)",
+                            "rgba(75, 192, 192, 0.2)",
+                            "rgba(153, 102, 255, 0.2)",
+                            "rgba(255, 159, 64, 0.2)"
+                        ],
+                        borderColor: [
+                            "rgba(255,99,132,1)",
+                            "rgba(54, 162, 235, 1)",
+                            "rgba(255, 206, 86, 1)",
+                            "rgba(75, 192, 192, 1)",
+                            "rgba(153, 102, 255, 1)",
+                            "rgba(255, 159, 64, 1)"
+                        ],
+                        borderWidth: 1
                     }
                 ]
+            },
+            options: {
+                scales: {
+                    yAxes: [
+                        {
+                            ticks: {
+                                beginAtZero: true
+                            }
+                        }
+                    ]
+                }
             }
-        }
-    });
-}
-)};
+        });
+    }
+    )
+};
+
+
+
 
 
 function optionChanged(id) {
     DemographicInfo(id);
-    BuildPlots();
+    BuildPlots(id);
 };
