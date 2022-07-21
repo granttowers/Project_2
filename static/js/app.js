@@ -44,7 +44,7 @@ function BuildPlots(id) {
     d3.json("/api/v1.0/incident_details").then(data => {
         console.log(data);
         //var data1 = ;
-        var label1 = data[0].map(function(index){
+        var label1 = data.map(function(index){
             return index.incident_catergory;
         }); 
         console.log(label1);
