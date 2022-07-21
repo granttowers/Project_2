@@ -43,16 +43,24 @@ init();
 function BuildPlots(id) {
     d3.json("/api/v1.0/incident_details").then(data => {
         console.log(data);
-        //var data1 = ;
-        var label1 = data.map(function(index){
-            return index.incident_catergory;
-        }); 
-        console.log(label1);
+        //var data1 = 
+        //var label1 = data[0].incident_category;
+        var graphInfo = data;
+        graphInfo = graphInfo.filter(row => row.mine_id == id)
+
+        var labellist = []
+        data.forEach(i => {
+        if (labellist.includes(i.incident_category))
+            {console.log()}
+        else (labellist.push(i.incident_category))
+        })
+        console.log(labellist)
+
         var ctx = document.getElementById("myChart").getContext("2d");
         var myChart = new Chart(ctx, {
         type: "bar",
         data: {
-            labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+            labels: labellist,
             datasets: [
                 {
                     label: "# of Votes",
