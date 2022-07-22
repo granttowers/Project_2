@@ -115,7 +115,7 @@ function BuildHoriBar(id) {
             x: Object.keys(labellist),
             y: Object.values(labellist),
             type: "bar",
-            marker: {color: 'gold'}
+            marker: {color: 'gold', opacity: 0.6}
         };
 
         var dataBar = [traceBar];
