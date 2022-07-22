@@ -133,6 +133,7 @@ function optionChanged(id) {
     DemographicInfo(id);
     BuildHoriBar(id);
     buildPie(id);
+    
 };
 
 
