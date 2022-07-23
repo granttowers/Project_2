@@ -5,31 +5,32 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Good Ol' U S of A
+  <title>US Mining Incidents 2020
   </title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  
+
 </head>
 
 <body>
   <div class="container">
     <div class="row">
-      <div class="col-md-12 jumbotron text-center" style = "background-color: gold;">
+      <div class="col-md-12 jumbotron text-center" style="background-color: gold;">
         <h1>Worst Performing United States Mining Operators in 2020</h1>
         <p>Use the interactive charts below to explore their performance...</p>
       </div>
     </div>
     <div class="row">
       <div class="col-md-6">
-        <div class="well" style= "background-color: gold;">
-          <h5><strong>Mine ID Selector (Default is Operator with most incidents)</strong></style></h5>
+        <div class="well" style="background-color: gold;">
+          <h5><strong>Mine ID Selector</strong>
+          </h5>
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
         </div>
         <div class="panel panel-primary">
-          <div class="panel-heading" style = "background-image:none;background: #0b0d11;">
+          <div class="panel-heading" style="background-image:none;background: #0b0d11;">
             <h3 class="panel-title">Mine Information</h3>
           </div>
           <div id="sample-metadata" class="panel-body"></div>
@@ -39,15 +40,18 @@
         <div id="hbar"></div>
       </div>
     </div>
+    <div class="col-md-6">
+      <div id="pie"></div>
+    </div>
+    <div class="row">
       <div class="col-md-6">
-        <div id="pie"></div>
+        <!-- <div id="tauchart"></div> -->
+
+        <div id="stacked_bar"></div>
+
       </div>
     </div>
-      <div class="col-md-6">
-        <div id="tauchart"></div>
   </div>
-
-
   <script src="static/js/app.js"></script>
 </body>
 

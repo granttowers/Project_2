@@ -12,6 +12,7 @@ function init() {
     });
 };
 
+// Refresh the Mine information for each operator as you select it
 function DemographicInfo(id) {
     var panel = d3.select("#sample-metadata");
     panel.html("");
@@ -25,8 +26,7 @@ function DemographicInfo(id) {
 }
 init();
 
-
-
+// Get Data for the "Injuries by Body Part and Nature Pie Charts" 
 function buildPie(id) {
     d3.json("/api/v1.0/injury_details").then(data => {
         var bodypart = {};
@@ -45,7 +45,7 @@ function buildPie(id) {
                 else { nature[i.injury_nature] = 1; }
             });
 
-            console.log(bodypart);
+            // Plot the "Injuries by Body Part and Nature Pie Charts"
             var data = [{
                 values: Object.values(bodypart),
                 labels: Object.keys(bodypart),
@@ -65,6 +65,7 @@ function buildPie(id) {
                 hole: .4,
                 type: 'pie'
             }];
+
 
             var layout = {
                 title: 'Injuries by Body Part and Nature',
@@ -89,7 +90,7 @@ function buildPie(id) {
                     }
                 ],
                 height: 400,
-                width: 600,
+                width: 540,
                 showlegend: false,
                 grid: { rows: 1, columns: 2 }
             };
@@ -102,6 +103,7 @@ function buildPie(id) {
     )
 };
 
+// Get Data for the "Top Incident Categories"
 function BuildHoriBar(id) {
     d3.json("/api/v1.0/incident_details").then(data => {
         var labellist = {};
@@ -111,29 +113,55 @@ function BuildHoriBar(id) {
             if (i.incident_category in labellist) { labellist[i.incident_category] += 1; }
             else { labellist[i.incident_category] = 1; }
         });
+
+        // Plot the "Injuries by Body Part and Nature Pie Charts"
         var traceBar = {
             x: Object.keys(labellist),
             y: Object.values(labellist),
             type: "bar",
-            marker: {color: 'gold', opacity: 0.6}
+            marker: { color: 'gold', opacity: 0.6 }
         };
 
         var dataBar = [traceBar];
         var layoutBar = {
-            title: "Top Incident Categories"
+            title: "Incident Types"
         };
         Plotly.newPlot("hbar", dataBar, layoutBar);
+    });
+}
+
+// Get Data for the "Stacked Bar Incident Activities by Month"
+function stacked_bar(id) {
+    d3.json("/api/v1.0/incident_details").then(data => {
+        var labellist2 = {};
+        var stacked_bar = data;
+        stacked_bar = stacked_bar.filter(row => row.mine_id == id);
+        stacked_bar.forEach(i => {
+            if (i.incident_activity in labellist2) { labellist2[i.incident_activity] += 1; }
+            else { labellist2[i.incident_activity] = 1; }
+
+        });
+
+        // Plot the "Stacked Bar Incident Activities by Month"
+        var stacked_bar = {
+            x: Object.keys(labellist2),
+            y: Object.values(labellist2),
+            type: "bar",
+            marker: { color: 'gold', opacity: 0.6 }
+        };
+
+        var dataBar = [stacked_bar];
+        var layoutBar = {
+            title: "Top Incident Activities"
+        };
+        Plotly.newPlot("stacked_bar", dataBar, layoutBar);
 
     });
 }
 
-
-
 function optionChanged(id) {
     DemographicInfo(id);
     BuildHoriBar(id);
+    stacked_bar(id);
     buildPie(id);
-    
 };
-
-
