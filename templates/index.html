@@ -5,8 +5,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>US Mining Incidents 2020
-  </title>
+  <title>US Mining Incidents 2020</title>
+
+  <!-- Section to reset styles and then link to stylesheet-->
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
@@ -14,39 +19,43 @@
   <!-- Library not covered in class... -->
   <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
   <script src="https://unpkg.com/frappe-charts@latest"></script>
+
 </head>
 
 <body>
   <div class="container">
     <div class="row">
-      <div class="col-md-12 jumbotron text-center" style="background-color: gold;">
-        <h1>Worst Performing United States Mining Operators in 2020</h1>
-        <p>Use the interactive charts below to explore their performance...</p>
+      <div class="col-md-12 jumbotron text-center" id="Header" style="background-color: gold;">
+        <h1>Mining Operators - United States</h1>
+        <h2>Incident Performance - 2020</h2>
+        <p><br>Use the interactive charts below to explore their performance...</p>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-6">
-        <div class="well" style="background-color: gold;">
-          <h5><strong>Mine ID Selector</strong>
-          </h5>
+      <div class="col-md-6" id="GeneralDetails">
+        <div class="well" style="background-color: #C0C0C0;">
+          <h5 id="h5-Left"><strong>Mine ID Selector</strong></h5>
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
         </div>
-        <div class="panel panel-primary">
-          <div class="panel-heading" style="background-image:none; background: #000000;">
+        <div class="panel-panel-primary">
+          <div class="panel-heading" style="background: #000000;">
             <h3 class="panel-title">Mine Information</h3>
           </div>
           <div id="sample-metadata" class="panel-body"></div>
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6" id="MineIncidentTypes">
+        <h5 id="h5-Center"><strong>Mine Incident Types</strong></h5>
         <div id="hbar"></div>
       </div>
     </div>
     <div class="col-md-6">
+      <h5 id="h5-Center"><strong>Injuries by Body Part and Nature of Injury</strong></h5>
       <div id="pie"></div>
     </div>
     <div class="row">
       <div class="col-md-6">
+        <h5 id="h5-Center"><strong>Total Incidents by Month</strong></h5>
         <div id="line"></div>
       </div>
     </div>

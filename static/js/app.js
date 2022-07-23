@@ -45,6 +45,7 @@ function buildPie(id) {
                 else { nature[i.injury_nature] = 1; }
             });
 
+            console.log(nature)
             // Plot the "Injuries by Body Part and Nature Pie Charts"
             var data = [{
                 values: Object.values(bodypart),
@@ -68,29 +69,26 @@ function buildPie(id) {
 
 
             var layout = {
-                title: 'Injuries by Body Part and Nature',
                 annotations: [
                     {
                         font: {
-                            size: 20
+                            size: 10
                         },
-                        showarrow: false,
-                        text: "",
-                        x: 0.17,
-                        y: 0.5
+                        showarrow: true,
+                        text: "Note: Epic Pie Charts",
+                        x: 0.16,
+                        y: 0.86
                     },
-                    {
-                        font: {
-                            size: 20
-                        },
-                        showarrow: false,
-                        text: "",
-                        x: 0.82,
-                        y: 0.5
-                    }
                 ],
-                height: 400,
+                height: 350,
                 width: 540,
+                margin: {
+                    l: 0,
+                    r: 0,
+                    b: 0,
+                    t: 0,
+                    pad: 4
+                },
                 showlegend: false,
                 grid: { rows: 1, columns: 2 }
             };
@@ -103,7 +101,7 @@ function buildPie(id) {
     )
 };
 
-// Get Data for the "Top Incident Categories"
+// Get Data for the "Mine Incident Types"
 function BuildHoriBar(id) {
     d3.json("/api/v1.0/incident_details").then(data => {
         var labellist = {};
@@ -123,10 +121,16 @@ function BuildHoriBar(id) {
         };
 
         var dataBar = [traceBar];
-        var layoutBar = {
-            title: "Incident Types"
+        var layout = {
+            autosize: false,
+            width: 550,
+            height: 370,
+            margin: {
+            t: 0,
+            pad: 1
+            },
         };
-        Plotly.newPlot("hbar", dataBar, layoutBar);
+        Plotly.newPlot("hbar", dataBar, layout);
     });
 }
 
@@ -150,29 +154,16 @@ function line(id) {
         let chart = new frappe.Chart("#line", { // or DOM element
             data: {
                 labels: linekey,
-
                 datasets: [
                     {
-                        // chartType: 'line',
                         values: linevalue
                     }
                 ],
-                // yMarkers: [{
-                //     label: "Marker", value: 20,
-                //     options: { labelPos: 'left' }
-                // }],
-                // yRegions: [{
-                //     label: "Region", start: 0, end: 20,
-                //     options: { labelPos: 'right' },
-                //     regionFill: 1
-                // }]
             },
-
-            title: "Total Incidents by Month",
             type: 'axis-mixed', // or 'bar', 'line', 'pie', 'percentage'
-            height: 400,
+            height: 350,
             colors: ['yellow'],
-            
+
             lineOptions: {
                 dotSize: 12 // default: 4
             },
@@ -184,7 +175,6 @@ function line(id) {
     }
     )
 };
-
 
 
 function optionChanged(id) {
