@@ -130,38 +130,66 @@ function BuildHoriBar(id) {
     });
 }
 
-// Get Data for the "Stacked Bar Incident Activities by Month"
-function stacked_bar(id) {
+// Get Data for the "Line Graph by Month"
+function line(id) {
     d3.json("/api/v1.0/incident_details").then(data => {
         var labellist2 = {};
-        var stacked_bar = data;
-        stacked_bar = stacked_bar.filter(row => row.mine_id == id);
-        stacked_bar.forEach(i => {
-            if (i.incident_activity in labellist2) { labellist2[i.incident_activity] += 1; }
-            else { labellist2[i.incident_activity] = 1; }
-
+        var line = data;
+        line = line.filter(row => row.mine_id == id);
+        line.forEach(i => {
+            if (i.incident_month in labellist2) { labellist2[i.incident_month] += 1; }
+            else { labellist2[i.incident_month] = 1; }
         });
+        console.log(Object.keys(labellist2))
+        console.log(Object.values(labellist2))
 
-        // Plot the "Stacked Bar Incident Activities by Month"
-        var stacked_bar = {
-            x: Object.keys(labellist2),
-            y: Object.values(labellist2),
-            type: "bar",
-            marker: { color: 'gold', opacity: 0.6 }
-        };
+        var linekey = Object.keys(labellist2)
+        var linevalue = Object.values(labellist2)
 
-        var dataBar = [stacked_bar];
-        var layoutBar = {
-            title: "Top Incident Activities"
-        };
-        Plotly.newPlot("stacked_bar", dataBar, layoutBar);
+        // Plot the "Line Graph by Month"
+        let chart = new frappe.Chart("#line", { // or DOM element
+            data: {
+                labels: linekey,
 
-    });
-}
+                datasets: [
+                    {
+                        // chartType: 'line',
+                        values: linevalue
+                    }
+                ],
+                // yMarkers: [{
+                //     label: "Marker", value: 20,
+                //     options: { labelPos: 'left' }
+                // }],
+                // yRegions: [{
+                //     label: "Region", start: 0, end: 20,
+                //     options: { labelPos: 'right' },
+                //     regionFill: 1
+                // }]
+            },
+
+            title: "Total Incidents by Month",
+            type: 'axis-mixed', // or 'bar', 'line', 'pie', 'percentage'
+            height: 400,
+            colors: ['yellow'],
+            
+            lineOptions: {
+                dotSize: 12 // default: 4
+            },
+            tooltipOptions: {
+                formatTooltipX: d => (d + ''),
+                formatTooltipY: d => d + ' incidents',
+            }
+        });
+    }
+    )
+};
+
+
 
 function optionChanged(id) {
     DemographicInfo(id);
     BuildHoriBar(id);
-    stacked_bar(id);
+    line(id);
     buildPie(id);
 };

@@ -11,7 +11,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
+  <!-- Library not covered in class... -->
+  <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+  <script src="https://unpkg.com/frappe-charts@latest"></script>
 </head>
 
 <body>
@@ -30,7 +32,7 @@
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
         </div>
         <div class="panel panel-primary">
-          <div class="panel-heading" style="background-image:none;background: #0b0d11;">
+          <div class="panel-heading" style="background-image:none; background: #000000;">
             <h3 class="panel-title">Mine Information</h3>
           </div>
           <div id="sample-metadata" class="panel-body"></div>
@@ -45,10 +47,7 @@
     </div>
     <div class="row">
       <div class="col-md-6">
-        <!-- <div id="tauchart"></div> -->
-
-        <div id="stacked_bar"></div>
-
+        <div id="line"></div>
       </div>
     </div>
   </div>
